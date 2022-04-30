@@ -3261,4 +3261,8 @@ local function BYCI_fake_script() -- Close_2.LocalScript
 		game.StarterGui:SetCore("SendNotification", {Title = "Closed", Text = "ROBLOX GUIX IS CLOSED!!"})
 	end)
 end
+
 coroutine.wrap(BYCI_fake_script)()
+print('Https Required!')
+writefile('DarkHubKey.DARKHUB', "DarkGood")
+.Console:Key(new.textbox)
