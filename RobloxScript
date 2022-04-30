@@ -1,0 +1,3264 @@
+print('Https Required To RobloxGuiX-Beta')
+-- RobloxGuiX 2.8.8Beta!
+-- Instances:
+
+local Main = Instance.new("ScreenGui")
+local KeySystem = Instance.new("Frame")
+local box = Instance.new("TextBox")
+local UICorner = Instance.new("UICorner")
+local UICorner_2 = Instance.new("UICorner")
+local CheckKey = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local Keytct = Instance.new("TextLabel")
+local HasAccount = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local GetKey = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local Bypass = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local close = Instance.new("TextButton")
+local Warns = Instance.new("TextLabel")
+local Account = Instance.new("Frame")
+local box_2 = Instance.new("TextBox")
+local UICorner_7 = Instance.new("UICorner")
+local UICorner_8 = Instance.new("UICorner")
+local Here = Instance.new("TextLabel")
+local Login = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local GetKey_2 = Instance.new("Frame")
+local UICorner_10 = Instance.new("UICorner")
+local Start = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+local Keytct_2 = Instance.new("TextLabel")
+local Started = Instance.new("TextLabel")
+local Close = Instance.new("TextButton")
+local Copy = Instance.new("TextButton")
+local UICorner_12 = Instance.new("UICorner")
+local Verify = Instance.new("Frame")
+local box_3 = Instance.new("TextBox")
+local UICorner_13 = Instance.new("UICorner")
+local UICorner_14 = Instance.new("UICorner")
+local Here_2 = Instance.new("TextLabel")
+local check = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
+local Coded = Instance.new("TextLabel")
+local MainFrame = Instance.new("Frame")
+local WalkSpeed = Instance.new("TextButton")
+local UICorner_16 = Instance.new("UICorner")
+local UICorner_17 = Instance.new("UICorner")
+local ScriptHub = Instance.new("TextButton")
+local UICorner_18 = Instance.new("UICorner")
+local ScriptHub2 = Instance.new("TextButton")
+local UICorner_19 = Instance.new("UICorner")
+local Shutdown = Instance.new("TextButton")
+local UICorner_20 = Instance.new("UICorner")
+local Maded = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local Credit = Instance.new("TextButton")
+local UICorner_22 = Instance.new("UICorner")
+local _5 = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
+local Setm = Instance.new("Frame")
+local UICorner_24 = Instance.new("UICorner")
+local Here_3 = Instance.new("TextBox")
+local Speed = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local JumpPower = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local text = Instance.new("TextLabel")
+local ScriptHubs = Instance.new("Frame")
+local UICorner_27 = Instance.new("UICorner")
+local Scripttct = Instance.new("TextLabel")
+local UICorner_28 = Instance.new("UICorner")
+local InfiniteYield = Instance.new("TextButton")
+local UICorner_29 = Instance.new("UICorner")
+local PetSim = Instance.new("TextButton")
+local UICorner_30 = Instance.new("UICorner")
+local EnableReset = Instance.new("TextButton")
+local UICorner_31 = Instance.new("UICorner")
+local antiafk = Instance.new("TextButton")
+local UICorner_32 = Instance.new("UICorner")
+local BedWarsVape = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local CountBlox = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local CliendFreeadmincommand = Instance.new("TextButton")
+local UICorner_35 = Instance.new("UICorner")
+local KingPiece = Instance.new("TextButton")
+local UICorner_36 = Instance.new("UICorner")
+local MyRestaurant = Instance.new("TextButton")
+local UICorner_37 = Instance.new("UICorner")
+local JailBreak = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local SpeedRun4 = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local Prisonlife = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local Mintct = Instance.new("TextLabel")
+local UICorner_41 = Instance.new("UICorner")
+local ScriptHubs2 = Instance.new("Frame")
+local UICorner_42 = Instance.new("UICorner")
+local Scripttct_2 = Instance.new("TextLabel")
+local UICorner_43 = Instance.new("UICorner")
+local InfAmmo = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local OwlHub = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local OnlyPanel = Instance.new("Frame")
+local UICorner_46 = Instance.new("UICorner")
+local Scripttct_3 = Instance.new("TextLabel")
+local UICorner_47 = Instance.new("UICorner")
+local Close_2 = Instance.new("TextButton")
+local UICorner_48 = Instance.new("UICorner")
+
+--Properties:
+
+Main.Name = "Main"
+Main.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+KeySystem.Name = "KeySystem"
+KeySystem.Parent = Main
+KeySystem.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
+KeySystem.Position = UDim2.new(0.373734355, 0, 0.231901824, 0)
+KeySystem.Size = UDim2.new(0, 581, 0, 476)
+
+box.Name = "box"
+box.Parent = KeySystem
+box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+box.Position = UDim2.new(0.095703125, 0, 0.266343832, 0)
+box.Size = UDim2.new(0, 488, 0, 63)
+box.Font = Enum.Font.SourceSans
+box.Text = ""
+box.TextColor3 = Color3.fromRGB(0, 0, 0)
+box.TextScaled = true
+box.TextSize = 14.000
+box.TextWrapped = true
+
+UICorner.Parent = box
+
+UICorner_2.Parent = KeySystem
+
+CheckKey.Name = "Check Key"
+CheckKey.Parent = KeySystem
+CheckKey.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+CheckKey.Position = UDim2.new(0.095703125, 0, 0.420595318, 0)
+CheckKey.Size = UDim2.new(0, 488, 0, 50)
+CheckKey.Font = Enum.Font.SourceSans
+CheckKey.Text = "Check Key"
+CheckKey.TextColor3 = Color3.fromRGB(121, 11, 255)
+CheckKey.TextScaled = true
+CheckKey.TextSize = 14.000
+CheckKey.TextWrapped = true
+
+UICorner_3.Parent = CheckKey
+
+Keytct.Name = "Key.tct"
+Keytct.Parent = KeySystem
+Keytct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Keytct.BackgroundTransparency = 1.000
+Keytct.Position = UDim2.new(0.095703125, 0, 0.0414826833, 0)
+Keytct.Size = UDim2.new(0, 488, 0, 73)
+Keytct.Font = Enum.Font.SourceSans
+Keytct.Text = "KeySystem"
+Keytct.TextColor3 = Color3.fromRGB(255, 255, 255)
+Keytct.TextScaled = true
+Keytct.TextSize = 14.000
+Keytct.TextWrapped = true
+
+HasAccount.Name = "Has Account"
+HasAccount.Parent = KeySystem
+HasAccount.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+HasAccount.Position = UDim2.new(0.095703125, 0, 0.552271783, 0)
+HasAccount.Size = UDim2.new(0, 488, 0, 50)
+HasAccount.Font = Enum.Font.SourceSans
+HasAccount.Text = "Has RoGuiX Account?"
+HasAccount.TextColor3 = Color3.fromRGB(121, 11, 255)
+HasAccount.TextScaled = true
+HasAccount.TextSize = 14.000
+HasAccount.TextWrapped = true
+
+UICorner_4.Parent = HasAccount
+
+GetKey.Name = "Get Key"
+GetKey.Parent = KeySystem
+GetKey.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+GetKey.Position = UDim2.new(0.0942139104, 0, 0.692209065, 0)
+GetKey.Size = UDim2.new(0, 488, 0, 50)
+GetKey.Font = Enum.Font.SourceSans
+GetKey.Text = "No Has Key? Get Key"
+GetKey.TextColor3 = Color3.fromRGB(121, 11, 255)
+GetKey.TextScaled = true
+GetKey.TextSize = 14.000
+GetKey.TextWrapped = true
+
+UICorner_5.Parent = GetKey
+
+Bypass.Name = "Bypass"
+Bypass.Parent = KeySystem
+Bypass.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+Bypass.Position = UDim2.new(0.0942139104, 0, 0.828763664, 0)
+Bypass.Size = UDim2.new(0, 488, 0, 50)
+Bypass.Font = Enum.Font.SourceSans
+Bypass.Text = "Special Account Bypass"
+Bypass.TextColor3 = Color3.fromRGB(121, 11, 255)
+Bypass.TextScaled = true
+Bypass.TextSize = 14.000
+Bypass.TextWrapped = true
+
+UICorner_6.Parent = Bypass
+
+close.Name = "close"
+close.Parent = KeySystem
+close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+close.BackgroundTransparency = 1.000
+close.Position = UDim2.new(0.900171995, 0, 0, 0)
+close.Size = UDim2.new(0, 58, 0, 51)
+close.Font = Enum.Font.SourceSans
+close.Text = "X"
+close.TextColor3 = Color3.fromRGB(255, 255, 255)
+close.TextScaled = true
+close.TextSize = 14.000
+close.TextWrapped = true
+
+Warns.Name = "Warns"
+Warns.Parent = KeySystem
+Warns.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Warns.BackgroundTransparency = 1.000
+Warns.Position = UDim2.new(0.137011215, 0, 0, 0)
+Warns.Size = UDim2.new(0, 421, 0, 41)
+Warns.Font = Enum.Font.SourceSans
+Warns.Text = "Warn:Key Is Once"
+Warns.TextColor3 = Color3.fromRGB(255, 255, 255)
+Warns.TextScaled = true
+Warns.TextSize = 14.000
+Warns.TextWrapped = true
+
+Account.Name = "Account"
+Account.Parent = Main
+Account.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
+Account.Position = UDim2.new(0.312910259, 0, 0.27239266, 0)
+Account.Size = UDim2.new(0, 512, 0, 413)
+Account.Visible = false
+
+box_2.Name = "box"
+box_2.Parent = Account
+box_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+box_2.Position = UDim2.new(0.095703125, 0, 0.266343832, 0)
+box_2.Size = UDim2.new(0, 413, 0, 63)
+box_2.Font = Enum.Font.SourceSans
+box_2.Text = ""
+box_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+box_2.TextScaled = true
+box_2.TextSize = 14.000
+box_2.TextWrapped = true
+
+UICorner_7.Parent = box_2
+
+UICorner_8.Parent = Account
+
+Here.Name = "Here"
+Here.Parent = Account
+Here.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Here.BackgroundTransparency = 1.000
+Here.Position = UDim2.new(0.095703125, 0, 0.0435835347, 0)
+Here.Size = UDim2.new(0, 413, 0, 73)
+Here.Font = Enum.Font.SourceSans
+Here.Text = "Login To Account!"
+Here.TextColor3 = Color3.fromRGB(255, 255, 255)
+Here.TextScaled = true
+Here.TextSize = 14.000
+Here.TextWrapped = true
+
+Login.Name = "Login"
+Login.Parent = Account
+Login.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+Login.Position = UDim2.new(0.095703125, 0, 0.460048437, 0)
+Login.Size = UDim2.new(0, 413, 0, 50)
+Login.Font = Enum.Font.SourceSans
+Login.Text = "Login To Account"
+Login.TextColor3 = Color3.fromRGB(121, 11, 255)
+Login.TextScaled = true
+Login.TextSize = 14.000
+Login.TextWrapped = true
+
+UICorner_9.Parent = Login
+
+GetKey_2.Name = "GetKey"
+GetKey_2.Parent = Main
+GetKey_2.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
+GetKey_2.Position = UDim2.new(0.350109398, 0, 0.267484695, 0)
+GetKey_2.Size = UDim2.new(0, 512, 0, 413)
+GetKey_2.Visible = false
+
+UICorner_10.Parent = GetKey_2
+
+Start.Name = "Start"
+Start.Parent = GetKey_2
+Start.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+Start.Position = UDim2.new(0.09765625, 0, 0.302663445, 0)
+Start.Size = UDim2.new(0, 413, 0, 50)
+Start.Font = Enum.Font.SourceSans
+Start.Text = "Start"
+Start.TextColor3 = Color3.fromRGB(121, 11, 255)
+Start.TextScaled = true
+Start.TextSize = 14.000
+Start.TextWrapped = true
+
+UICorner_11.Parent = Start
+
+Keytct_2.Name = "Key.tct"
+Keytct_2.Parent = GetKey_2
+Keytct_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Keytct_2.BackgroundTransparency = 1.000
+Keytct_2.Position = UDim2.new(0.09765625, 0, 0.0435835347, 0)
+Keytct_2.Size = UDim2.new(0, 413, 0, 73)
+Keytct_2.Font = Enum.Font.SourceSans
+Keytct_2.Text = "Get Key"
+Keytct_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Keytct_2.TextScaled = true
+Keytct_2.TextSize = 14.000
+Keytct_2.TextWrapped = true
+
+Started.Name = "Started"
+Started.Parent = GetKey_2
+Started.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Started.BackgroundTransparency = 1.000
+Started.Position = UDim2.new(0.09765625, 0, 0.474576265, 0)
+Started.Size = UDim2.new(0, 413, 0, 73)
+Started.Font = Enum.Font.SourceSans
+Started.Text = "sd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdfsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgv"
+Started.TextColor3 = Color3.fromRGB(255, 255, 255)
+Started.TextScaled = true
+Started.TextSize = 14.000
+Started.TextWrapped = true
+
+Close.Name = "Close"
+Close.Parent = GetKey_2
+Close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Close.BackgroundTransparency = 1.000
+Close.Position = UDim2.new(0.90234375, 0, 0, 0)
+Close.Size = UDim2.new(0, 50, 0, 45)
+Close.Font = Enum.Font.SourceSans
+Close.Text = "X"
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+
+Copy.Name = "Copy"
+Copy.Parent = GetKey_2
+Copy.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+Copy.Position = UDim2.new(0.09765625, 0, 0.72154963, 0)
+Copy.Size = UDim2.new(0, 413, 0, 50)
+Copy.Visible = false
+Copy.Font = Enum.Font.SourceSans
+Copy.Text = "Copy Key"
+Copy.TextColor3 = Color3.fromRGB(121, 11, 255)
+Copy.TextScaled = true
+Copy.TextSize = 14.000
+Copy.TextWrapped = true
+
+UICorner_12.Parent = Copy
+
+Verify.Name = "Verify"
+Verify.Parent = Main
+Verify.BackgroundColor3 = Color3.fromRGB(67, 67, 67)
+Verify.Position = UDim2.new(0.396061242, 0, 0.246625781, 0)
+Verify.Size = UDim2.new(0, 512, 0, 413)
+Verify.Visible = false
+
+box_3.Name = "box"
+box_3.Parent = Verify
+box_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+box_3.Position = UDim2.new(0.109375, 0, 0.464891046, 0)
+box_3.Size = UDim2.new(0, 413, 0, 63)
+box_3.Font = Enum.Font.SourceSans
+box_3.Text = ""
+box_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+box_3.TextScaled = true
+box_3.TextSize = 14.000
+box_3.TextWrapped = true
+
+UICorner_13.Parent = box_3
+
+UICorner_14.Parent = Verify
+
+Here_2.Name = "Here"
+Here_2.Parent = Verify
+Here_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Here_2.BackgroundTransparency = 1.000
+Here_2.Position = UDim2.new(0.109375, 0, 0.038740918, 0)
+Here_2.Size = UDim2.new(0, 413, 0, 73)
+Here_2.Font = Enum.Font.SourceSans
+Here_2.Text = "Verify For Get Key"
+Here_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Here_2.TextScaled = true
+Here_2.TextSize = 14.000
+Here_2.TextWrapped = true
+
+check.Name = "check"
+check.Parent = Verify
+check.BackgroundColor3 = Color3.fromRGB(138, 138, 138)
+check.Position = UDim2.new(0.109375, 0, 0.66585958, 0)
+check.Size = UDim2.new(0, 413, 0, 50)
+check.Font = Enum.Font.SourceSans
+check.Text = "Check Code"
+check.TextColor3 = Color3.fromRGB(121, 11, 255)
+check.TextScaled = true
+check.TextSize = 14.000
+check.TextWrapped = true
+
+UICorner_15.Parent = check
+
+Coded.Name = "Coded"
+Coded.Parent = Verify
+Coded.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Coded.BackgroundTransparency = 1.000
+Coded.Position = UDim2.new(0.109375, 0, 0.246973366, 0)
+Coded.Size = UDim2.new(0, 413, 0, 73)
+Coded.Font = Enum.Font.SourceSans
+Coded.Text = "Q937a98"
+Coded.TextColor3 = Color3.fromRGB(255, 255, 255)
+Coded.TextScaled = true
+Coded.TextSize = 14.000
+Coded.TextWrapped = true
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = Main
+MainFrame.BackgroundColor3 = Color3.fromRGB(43, 255, 255)
+MainFrame.Position = UDim2.new(0.628564537, 0, 0.291773021, 0)
+MainFrame.Size = UDim2.new(0, 486, 0, 567)
+MainFrame.Visible = false
+
+WalkSpeed.Name = "WalkSpeed"
+WalkSpeed.Parent = MainFrame
+WalkSpeed.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+WalkSpeed.Position = UDim2.new(0.0205761325, 0, 0.149911821, 0)
+WalkSpeed.Size = UDim2.new(0, 466, 0, 50)
+WalkSpeed.Font = Enum.Font.SourceSans
+WalkSpeed.Text = "Set Speed&JumpPower"
+WalkSpeed.TextColor3 = Color3.fromRGB(0, 0, 0)
+WalkSpeed.TextScaled = true
+WalkSpeed.TextSize = 14.000
+WalkSpeed.TextWrapped = true
+
+UICorner_16.Parent = WalkSpeed
+
+UICorner_17.Parent = MainFrame
+
+ScriptHub.Name = "ScriptHub"
+ScriptHub.Parent = MainFrame
+ScriptHub.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+ScriptHub.Position = UDim2.new(0.0205761325, 0, 0.261022925, 0)
+ScriptHub.Size = UDim2.new(0, 466, 0, 50)
+ScriptHub.Font = Enum.Font.SourceSans
+ScriptHub.Text = "ScriptHubs"
+ScriptHub.TextColor3 = Color3.fromRGB(0, 0, 0)
+ScriptHub.TextScaled = true
+ScriptHub.TextSize = 14.000
+ScriptHub.TextWrapped = true
+
+UICorner_18.Parent = ScriptHub
+
+ScriptHub2.Name = "ScriptHub2"
+ScriptHub2.Parent = MainFrame
+ScriptHub2.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+ScriptHub2.Position = UDim2.new(0.0205761325, 0, 0.373897702, 0)
+ScriptHub2.Size = UDim2.new(0, 466, 0, 50)
+ScriptHub2.Font = Enum.Font.SourceSans
+ScriptHub2.Text = "ScriptHub Page2"
+ScriptHub2.TextColor3 = Color3.fromRGB(0, 0, 0)
+ScriptHub2.TextScaled = true
+ScriptHub2.TextSize = 14.000
+ScriptHub2.TextWrapped = true
+
+UICorner_19.Parent = ScriptHub2
+
+Shutdown.Name = "Shutdown"
+Shutdown.Parent = MainFrame
+Shutdown.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+Shutdown.Position = UDim2.new(0.0205761325, 0, 0.485008806, 0)
+Shutdown.Size = UDim2.new(0, 466, 0, 50)
+Shutdown.Font = Enum.Font.SourceSans
+Shutdown.Text = "ShutDown Panel"
+Shutdown.TextColor3 = Color3.fromRGB(0, 0, 0)
+Shutdown.TextScaled = true
+Shutdown.TextSize = 14.000
+Shutdown.TextWrapped = true
+
+UICorner_20.Parent = Shutdown
+
+Maded.Name = "Maded?"
+Maded.Parent = MainFrame
+Maded.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+Maded.Position = UDim2.new(0.0205761325, 0, 0.596119881, 0)
+Maded.Size = UDim2.new(0, 466, 0, 50)
+Maded.Font = Enum.Font.SourceSans
+Maded.Text = "Maded Edition And Scripts"
+Maded.TextColor3 = Color3.fromRGB(0, 0, 0)
+Maded.TextScaled = true
+Maded.TextSize = 14.000
+Maded.TextWrapped = true
+
+UICorner_21.Parent = Maded
+
+Credit.Name = "Credit"
+Credit.Parent = MainFrame
+Credit.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+Credit.Position = UDim2.new(0.0205761325, 0, 0.707231045, 0)
+Credit.Size = UDim2.new(0, 466, 0, 50)
+Credit.Font = Enum.Font.SourceSans
+Credit.Text = "Credits"
+Credit.TextColor3 = Color3.fromRGB(0, 0, 0)
+Credit.TextScaled = true
+Credit.TextSize = 14.000
+Credit.TextWrapped = true
+
+UICorner_22.Parent = Credit
+
+_5.Name = "5"
+_5.Parent = MainFrame
+_5.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+_5.Position = UDim2.new(0.0205761325, 0, 0.81834209, 0)
+_5.Size = UDim2.new(0, 466, 0, 50)
+_5.Font = Enum.Font.SourceSans
+_5.Text = "UpdateSoon!"
+_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+_5.TextScaled = true
+_5.TextSize = 14.000
+_5.TextWrapped = true
+
+UICorner_23.Parent = _5
+
+Setm.Name = "Setm"
+Setm.Parent = MainFrame
+Setm.BackgroundColor3 = Color3.fromRGB(11, 162, 255)
+Setm.Position = UDim2.new(-0.993827164, 0, 0, 0)
+Setm.Size = UDim2.new(0, 433, 0, 394)
+Setm.Visible = false
+
+UICorner_24.Parent = Setm
+
+Here_3.Name = "Here"
+Here_3.Parent = Setm
+Here_3.BackgroundColor3 = Color3.fromRGB(39, 255, 241)
+Here_3.Position = UDim2.new(0.0762124732, 0, 0.243824914, 0)
+Here_3.Size = UDim2.new(0, 379, 0, 80)
+Here_3.Font = Enum.Font.SourceSans
+Here_3.Text = ""
+Here_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Here_3.TextScaled = true
+Here_3.TextSize = 14.000
+Here_3.TextWrapped = true
+
+Speed.Name = "Speed"
+Speed.Parent = Setm
+Speed.BackgroundColor3 = Color3.fromRGB(109, 5, 255)
+Speed.Position = UDim2.new(0.0785219446, 0, 0.482233495, 0)
+Speed.Size = UDim2.new(0, 379, 0, 50)
+Speed.Font = Enum.Font.SourceSans
+Speed.Text = "Set Speed"
+Speed.TextColor3 = Color3.fromRGB(255, 255, 255)
+Speed.TextSize = 58.000
+Speed.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+
+UICorner_25.Parent = Speed
+
+JumpPower.Name = "JumpPower"
+JumpPower.Parent = Setm
+JumpPower.BackgroundColor3 = Color3.fromRGB(109, 5, 255)
+JumpPower.Position = UDim2.new(0.0785219446, 0, 0.65482235, 0)
+JumpPower.Size = UDim2.new(0, 379, 0, 50)
+JumpPower.Font = Enum.Font.SourceSans
+JumpPower.Text = "Set JumpPower"
+JumpPower.TextColor3 = Color3.fromRGB(255, 255, 255)
+JumpPower.TextSize = 58.000
+JumpPower.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+
+UICorner_26.Parent = JumpPower
+
+text.Name = "text"
+text.Parent = Setm
+text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+text.BackgroundTransparency = 1.000
+text.Position = UDim2.new(0.0438799076, 0, 0.0279187821, 0)
+text.Size = UDim2.new(0, 393, 0, 65)
+text.Font = Enum.Font.SourceSans
+text.Text = "Set Character Effects"
+text.TextColor3 = Color3.fromRGB(255, 255, 255)
+text.TextScaled = true
+text.TextSize = 14.000
+text.TextWrapped = true
+
+ScriptHubs.Name = "ScriptHubs"
+ScriptHubs.Parent = MainFrame
+ScriptHubs.BackgroundColor3 = Color3.fromRGB(5, 134, 255)
+ScriptHubs.Position = UDim2.new(-1.04115224, 0, 0.0123456791, 0)
+ScriptHubs.Size = UDim2.new(0, 457, 0, 552)
+ScriptHubs.Visible = false
+
+UICorner_27.Parent = ScriptHubs
+
+Scripttct.Name = "Scripttct"
+Scripttct.Parent = ScriptHubs
+Scripttct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct.BackgroundTransparency = 1.000
+Scripttct.Size = UDim2.new(0, 457, 0, 66)
+Scripttct.Font = Enum.Font.SourceSans
+Scripttct.Text = "ScriptHubs"
+Scripttct.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct.TextScaled = true
+Scripttct.TextSize = 14.000
+Scripttct.TextWrapped = true
+
+UICorner_28.Parent = Scripttct
+
+InfiniteYield.Name = "Infinite Yield"
+InfiniteYield.Parent = ScriptHubs
+InfiniteYield.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+InfiniteYield.Position = UDim2.new(0.013129103, 0, 0.141304344, 0)
+InfiniteYield.Size = UDim2.new(0, 218, 0, 50)
+InfiniteYield.Font = Enum.Font.SourceSans
+InfiniteYield.Text = "Infinity Yield"
+InfiniteYield.TextColor3 = Color3.fromRGB(90, 90, 90)
+InfiniteYield.TextScaled = true
+InfiniteYield.TextSize = 14.000
+InfiniteYield.TextWrapped = true
+
+UICorner_29.Parent = InfiniteYield
+
+PetSim.Name = "PetSim"
+PetSim.Parent = ScriptHubs
+PetSim.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+PetSim.Position = UDim2.new(0.503282249, 0, 0.141304344, 0)
+PetSim.Size = UDim2.new(0, 218, 0, 50)
+PetSim.Font = Enum.Font.SourceSans
+PetSim.Text = "Pet Simulator X"
+PetSim.TextColor3 = Color3.fromRGB(90, 90, 90)
+PetSim.TextScaled = true
+PetSim.TextSize = 14.000
+PetSim.TextWrapped = true
+
+UICorner_30.Parent = PetSim
+
+EnableReset.Name = "Enable Reset"
+EnableReset.Parent = ScriptHubs
+EnableReset.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+EnableReset.Position = UDim2.new(0.013129103, 0, 0.269927531, 0)
+EnableReset.Size = UDim2.new(0, 218, 0, 50)
+EnableReset.Font = Enum.Font.SourceSans
+EnableReset.Text = "Enable Reset"
+EnableReset.TextColor3 = Color3.fromRGB(90, 90, 90)
+EnableReset.TextScaled = true
+EnableReset.TextSize = 14.000
+EnableReset.TextWrapped = true
+
+UICorner_31.Parent = EnableReset
+
+antiafk.Name = "anti afk"
+antiafk.Parent = ScriptHubs
+antiafk.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+antiafk.Position = UDim2.new(0.503282249, 0, 0.269927531, 0)
+antiafk.Size = UDim2.new(0, 218, 0, 50)
+antiafk.Font = Enum.Font.SourceSans
+antiafk.Text = "Anti-Afk"
+antiafk.TextColor3 = Color3.fromRGB(90, 90, 90)
+antiafk.TextScaled = true
+antiafk.TextSize = 14.000
+antiafk.TextWrapped = true
+
+UICorner_32.Parent = antiafk
+
+BedWarsVape.Name = "BedWars(Vape)"
+BedWarsVape.Parent = ScriptHubs
+BedWarsVape.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+BedWarsVape.Position = UDim2.new(0.013129103, 0, 0.394927531, 0)
+BedWarsVape.Size = UDim2.new(0, 218, 0, 50)
+BedWarsVape.Font = Enum.Font.SourceSans
+BedWarsVape.Text = "BedWars(Vape V4)"
+BedWarsVape.TextColor3 = Color3.fromRGB(90, 90, 90)
+BedWarsVape.TextScaled = true
+BedWarsVape.TextSize = 14.000
+BedWarsVape.TextWrapped = true
+
+UICorner_33.Parent = BedWarsVape
+
+CountBlox.Name = "CountBlox"
+CountBlox.Parent = ScriptHubs
+CountBlox.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+CountBlox.Position = UDim2.new(0.503282249, 0, 0.394927531, 0)
+CountBlox.Size = UDim2.new(0, 218, 0, 50)
+CountBlox.Font = Enum.Font.SourceSans
+CountBlox.Text = "CounterBlox"
+CountBlox.TextColor3 = Color3.fromRGB(90, 90, 90)
+CountBlox.TextScaled = true
+CountBlox.TextSize = 14.000
+CountBlox.TextWrapped = true
+
+UICorner_34.Parent = CountBlox
+
+CliendFreeadmincommand.Name = "Cliend Freeadmin command"
+CliendFreeadmincommand.Parent = ScriptHubs
+CliendFreeadmincommand.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+CliendFreeadmincommand.Position = UDim2.new(0.013129103, 0, 0.509057999, 0)
+CliendFreeadmincommand.Size = UDim2.new(0, 218, 0, 50)
+CliendFreeadmincommand.Font = Enum.Font.SourceSans
+CliendFreeadmincommand.Text = "Client FreeAdmin Command"
+CliendFreeadmincommand.TextColor3 = Color3.fromRGB(90, 90, 90)
+CliendFreeadmincommand.TextScaled = true
+CliendFreeadmincommand.TextSize = 14.000
+CliendFreeadmincommand.TextWrapped = true
+
+UICorner_35.Parent = CliendFreeadmincommand
+
+KingPiece.Name = "King Piece"
+KingPiece.Parent = ScriptHubs
+KingPiece.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+KingPiece.Position = UDim2.new(0.503282309, 0, 0.623188436, 0)
+KingPiece.Size = UDim2.new(0, 218, 0, 50)
+KingPiece.Font = Enum.Font.SourceSans
+KingPiece.Text = "King Piece"
+KingPiece.TextColor3 = Color3.fromRGB(90, 90, 90)
+KingPiece.TextScaled = true
+KingPiece.TextSize = 14.000
+KingPiece.TextWrapped = true
+
+UICorner_36.Parent = KingPiece
+
+MyRestaurant.Name = "My Restaurant"
+MyRestaurant.Parent = ScriptHubs
+MyRestaurant.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+MyRestaurant.Position = UDim2.new(0.503282249, 0, 0.509057999, 0)
+MyRestaurant.Size = UDim2.new(0, 218, 0, 50)
+MyRestaurant.Font = Enum.Font.SourceSans
+MyRestaurant.Text = "My Restaurant"
+MyRestaurant.TextColor3 = Color3.fromRGB(90, 90, 90)
+MyRestaurant.TextScaled = true
+MyRestaurant.TextSize = 14.000
+MyRestaurant.TextWrapped = true
+
+UICorner_37.Parent = MyRestaurant
+
+JailBreak.Name = "Jail Break"
+JailBreak.Parent = ScriptHubs
+JailBreak.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+JailBreak.Position = UDim2.new(0.013129103, 0, 0.623188376, 0)
+JailBreak.Size = UDim2.new(0, 218, 0, 50)
+JailBreak.Font = Enum.Font.SourceSans
+JailBreak.Text = "JailBreak Vynixu GUi"
+JailBreak.TextColor3 = Color3.fromRGB(90, 90, 90)
+JailBreak.TextScaled = true
+JailBreak.TextSize = 14.000
+JailBreak.TextWrapped = true
+
+UICorner_38.Parent = JailBreak
+
+SpeedRun4.Name = "SpeedRun 4"
+SpeedRun4.Parent = ScriptHubs
+SpeedRun4.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+SpeedRun4.Position = UDim2.new(0.013129103, 0, 0.737318814, 0)
+SpeedRun4.Size = UDim2.new(0, 442, 0, 50)
+SpeedRun4.Font = Enum.Font.SourceSans
+SpeedRun4.Text = "SpeedRun 4"
+SpeedRun4.TextColor3 = Color3.fromRGB(90, 90, 90)
+SpeedRun4.TextScaled = true
+SpeedRun4.TextSize = 14.000
+SpeedRun4.TextWrapped = true
+
+UICorner_39.Parent = SpeedRun4
+
+Prisonlife.Name = "Prison life"
+Prisonlife.Parent = ScriptHubs
+Prisonlife.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+Prisonlife.Position = UDim2.new(0.013129103, 0, 0.858695626, 0)
+Prisonlife.Size = UDim2.new(0, 442, 0, 50)
+Prisonlife.Font = Enum.Font.SourceSans
+Prisonlife.Text = "Prison Life Gui"
+Prisonlife.TextColor3 = Color3.fromRGB(90, 90, 90)
+Prisonlife.TextScaled = true
+Prisonlife.TextSize = 14.000
+Prisonlife.TextWrapped = true
+
+UICorner_40.Parent = Prisonlife
+
+Mintct.Name = "Mintct"
+Mintct.Parent = MainFrame
+Mintct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Mintct.BackgroundTransparency = 1.000
+Mintct.Position = UDim2.new(0.0288065858, 0, 0, 0)
+Mintct.Size = UDim2.new(0, 457, 0, 66)
+Mintct.Font = Enum.Font.SourceSans
+Mintct.Text = "RobloxGui X // 2.8.7b"
+Mintct.TextColor3 = Color3.fromRGB(72, 72, 72)
+Mintct.TextScaled = true
+Mintct.TextSize = 14.000
+Mintct.TextWrapped = true
+
+UICorner_41.Parent = Mintct
+
+ScriptHubs2.Name = "ScriptHubs2"
+ScriptHubs2.Parent = MainFrame
+ScriptHubs2.BackgroundColor3 = Color3.fromRGB(5, 134, 255)
+ScriptHubs2.Position = UDim2.new(-1.04115224, 0, 0.0123456791, 0)
+ScriptHubs2.Size = UDim2.new(0, 457, 0, 552)
+ScriptHubs2.Visible = false
+
+UICorner_42.Parent = ScriptHubs2
+
+Scripttct_2.Name = "Scripttct"
+Scripttct_2.Parent = ScriptHubs2
+Scripttct_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_2.BackgroundTransparency = 1.000
+Scripttct_2.Size = UDim2.new(0, 457, 0, 66)
+Scripttct_2.Font = Enum.Font.SourceSans
+Scripttct_2.Text = "ScriptHub Page-2"
+Scripttct_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_2.TextScaled = true
+Scripttct_2.TextSize = 14.000
+Scripttct_2.TextWrapped = true
+
+UICorner_43.Parent = Scripttct_2
+
+InfAmmo.Name = "Inf Ammo"
+InfAmmo.Parent = ScriptHubs2
+InfAmmo.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+InfAmmo.Position = UDim2.new(0.0415754914, 0, 0.141304344, 0)
+InfAmmo.Size = UDim2.new(0, 399, 0, 50)
+InfAmmo.Font = Enum.Font.SourceSans
+InfAmmo.Text = "OP Gun(PrisonLife)"
+InfAmmo.TextColor3 = Color3.fromRGB(90, 90, 90)
+InfAmmo.TextScaled = true
+InfAmmo.TextSize = 14.000
+InfAmmo.TextWrapped = true
+
+UICorner_44.Parent = InfAmmo
+
+OwlHub.Name = "OwlHub"
+OwlHub.Parent = ScriptHubs2
+OwlHub.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+OwlHub.Position = UDim2.new(0.0437636748, 0, 0.255434781, 0)
+OwlHub.Size = UDim2.new(0, 399, 0, 50)
+OwlHub.Font = Enum.Font.SourceSans
+OwlHub.Text = "Owl Hub(General)"
+OwlHub.TextColor3 = Color3.fromRGB(90, 90, 90)
+OwlHub.TextScaled = true
+OwlHub.TextSize = 14.000
+OwlHub.TextWrapped = true
+
+UICorner_45.Parent = OwlHub
+
+OnlyPanel.Name = "OnlyPanel"
+OnlyPanel.Parent = MainFrame
+OnlyPanel.BackgroundColor3 = Color3.fromRGB(5, 134, 255)
+OnlyPanel.Position = UDim2.new(-1.03086412, 0, 0.0123456791, 0)
+OnlyPanel.Size = UDim2.new(0, 457, 0, 552)
+OnlyPanel.Visible = false
+
+UICorner_46.Parent = OnlyPanel
+
+Scripttct_3.Name = "Scripttct"
+Scripttct_3.Parent = OnlyPanel
+Scripttct_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_3.BackgroundTransparency = 1.000
+Scripttct_3.Size = UDim2.new(0, 457, 0, 66)
+Scripttct_3.Font = Enum.Font.SourceSans
+Scripttct_3.Text = "VIP Panel"
+Scripttct_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_3.TextScaled = true
+Scripttct_3.TextSize = 14.000
+Scripttct_3.TextWrapped = true
+
+UICorner_47.Parent = Scripttct_3
+
+Close_2.Name = "Close"
+Close_2.Parent = MainFrame
+Close_2.BackgroundColor3 = Color3.fromRGB(3, 255, 62)
+Close_2.Position = UDim2.new(0.0576131679, 0, 0.918871164, 0)
+Close_2.Size = UDim2.new(0, 420, 0, 40)
+Close_2.Font = Enum.Font.SourceSans
+Close_2.Text = "Close"
+Close_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Close_2.TextScaled = true
+Close_2.TextSize = 14.000
+Close_2.TextWrapped = true
+
+UICorner_48.Parent = Close_2
+
+-- Scripts:
+
+local function CJUPZB_fake_script() -- Main.ToggleKey 
+	local script = Instance.new('LocalScript', Main)
+
+	local MainFrame = script.Parent.MainFrame
+	local Opened = false
+	
+	local PositionClosed = UDim2.new(-0.371, 0,0.262, 0)
+	local PositionOpened = UDim2.new(0.622, 0,0.293, 0)
+	
+	local UserInputService = game:GetService("UserInputService")
+	
+	UserInputService.InputBegan:Connect(function(KeyCode)
+		if KeyCode.KeyCode == Enum.KeyCode.F6 then
+			if Opened then
+				MainFrame:TweenPosition((PositionClosed), "InOut", "Quint")
+				Opened = false
+			else
+				MainFrame:TweenPosition((PositionOpened), "InOut", "Quart")
+				Opened = true
+			end
+		end
+	end)
+end
+coroutine.wrap(CJUPZB_fake_script)()
+local function ZOVJM_fake_script() -- Main.Health Refence 
+	local script = Instance.new('LocalScript', Main)
+
+	local plr = game.Players.LocalPlayer
+	local gui = script.Parent.GetKey
+	
+	if plr.Character:WaitForChild("Humanoid").Health == 0 then
+		if script.Parent.MainFrame.Visible  == false then
+			script.Parent.MainFrame.Visible = true
+			wait(1.5)
+			script.Parent.MainFrame.Visible = true
+			if gui.Visible == true then
+				gui.Visible = false
+				script.Parent.MainFrame.Visible = true
+			end
+		end
+	end
+end
+coroutine.wrap(ZOVJM_fake_script)()
+local function EQKN_fake_script() -- CheckKey.LocalScript 
+	local script = Instance.new('LocalScript', CheckKey)
+
+	local box = script.Parent.Parent.box
+	local gui = script.Parent.Parent.Parent.MainFrame
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if box.Text == script.Parent.Parent.Parent.GetKey.Started.Text then
+			game.StarterGui:SetCore("SendNotification", {Title = "Check", Text = "Checking..."})
+			wait(2)
+			game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Checked!"})
+			gui.Visible = true
+			script.Parent.Parent.Parent.KeySystem.Visible = false
+		else
+			game.StarterGui:SetCore("SendNotification", {Title = "Check", Text = "Checking..."})
+			wait(2)
+			game.StarterGui:SetCore("SendNotification", {Title = "Failed", Text = "Invaild"})
+		end
+	end)
+end
+coroutine.wrap(EQKN_fake_script)()
+local function KVAF_fake_script() -- KeySystem.Draggable 
+	local script = Instance.new('LocalScript', KeySystem)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.KeySystem
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(KVAF_fake_script)()
+local function KRNJNRS_fake_script() -- HasAccount.LocalScript 
+	local script = Instance.new('LocalScript', HasAccount)
+
+	local gui = script.Parent.Parent.Parent.Account
+	local m = script.Parent.Parent.Parent.KeySystem
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if gui.Visible == false then
+			gui.Visible = true
+			if m.Visible == true then
+				m.Visible = false
+			end
+		end
+	end)
+end
+coroutine.wrap(KRNJNRS_fake_script)()
+local function VZWCY_fake_script() -- GetKey.LocalScript 
+	local script = Instance.new('LocalScript', GetKey)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Verify.Visible = true
+		script.Parent.Parent.Parent.KeySystem.Visible = false
+	end)
+end
+coroutine.wrap(VZWCY_fake_script)()
+local function XWZUHV_fake_script() -- Bypass.LocalScript 
+	local script = Instance.new('LocalScript', Bypass)
+
+	local plr  = game.Players.LocalPlayer
+	local text = script.Parent.Parent["Key.tct"]
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" then
+			text.Text = "KeySystem(Checking...)"
+			wait(2)
+			text.Text = "KeySystem(Correct!)"
+			wait(2)
+			script.Parent.Parent.Parent.KeySystem.Visible = false
+			script.Parent.Parent.Parent.MainFrame.Visible = true
+		else
+			text.Text = "KeySystem(Checking...)"
+			wait(2)
+			text.Text = "KeySystem(Invaild!)"
+			wait(2)
+			text.Text = "KeySystem"
+		end
+	end)
+end
+coroutine.wrap(XWZUHV_fake_script)()
+local function RKQUMJL_fake_script() -- close.LocalScript 
+	local script = Instance.new('LocalScript', close)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.KeySystem.Visible = false
+	end)
+end
+coroutine.wrap(RKQUMJL_fake_script)()
+local function RZDFNKR_fake_script() -- Login.LocalScript 
+	local script = Instance.new('LocalScript', Login)
+
+	local plr = game.Players.LocalPlayer
+	local box = script.Parent.Parent.box
+	local here = script.Parent.Parent.Here
+	local gui = script.Parent.Parent.Parent.MainFrame
+	local this = script.Parent.Parent.Parent.Account
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if box.Text == "CountTheDev" then
+			if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" then
+				here.Text = "Verifyed!"
+				if this.Visible == true then
+					this.Visible = false
+					if gui.Visible == false then
+						gui.Visible = true
+					end
+				end
+			end
+		end
+	end)
+end
+coroutine.wrap(RZDFNKR_fake_script)()
+local function ASVABZA_fake_script() -- Account.Draggable 
+	local script = Instance.new('LocalScript', Account)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.Account
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(ASVABZA_fake_script)()
+local function MVPQEN_fake_script() -- Start.LocalScript 
+	local script = Instance.new('LocalScript', Start)
+
+	local tex = script.Parent.Parent.Started
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		wait(2)
+		tex.Text = "Getting Key..."
+		wait(2)
+		tex.Text = "Checking..."
+		wait(2)
+		tex.Text = "Scanning..."
+		wait(2)
+		tex.Text = "Success!"
+		wait(2)
+		tex.Text = math.random(1000, 100000000)
+		script.Parent.Parent.Copy.Visible = true
+	end)
+end
+coroutine.wrap(MVPQEN_fake_script)()
+local function AVWOMD_fake_script() -- GetKey_2.Draggable 
+	local script = Instance.new('LocalScript', GetKey_2)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.GetKey
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(AVWOMD_fake_script)()
+local function SHBGTIR_fake_script() -- Close.LocalScript 
+	local script = Instance.new('LocalScript', Close)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.GetKey.Visible = false
+		script.Parent.Parent.Parent.KeySystem.Visible = true
+	end)
+end
+coroutine.wrap(SHBGTIR_fake_script)()
+local function IKVI_fake_script() -- Copy.LocalScript 
+	local script = Instance.new('LocalScript', Copy)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		setclipboard(script.Parent.Parent.Started.Text)
+		game.StarterGui:SetCore("SendNotification", {Title = "Copyed!", Text = "Copyed To ClipBoard!"})
+	end)
+end
+coroutine.wrap(IKVI_fake_script)()
+local function ARSH_fake_script() -- check.LocalScript 
+	local script = Instance.new('LocalScript', check)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		if script.Parent.Parent.box.Text == script.Parent.Parent.Coded.Text then
+			game.StarterGui:SetCore("SendNotification", {Title = "Checking", Text = "Checking..."})
+			wait(2)
+			game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Checked!"})
+			local gui = script.Parent.Parent.Parent.GetKey
+			gui.Visible = true
+			script.Parent.Parent.Parent.Verify.Visible = false
+		else
+			game.StarterGui:SetCore("SendNotification", {Title = "Checking", Text = "Checking..."})
+			wait(2)
+			game.StarterGui:SetCore("SendNotification", {Title = "Failed", Text = "Invaild."})
+		end
+	end)
+end
+coroutine.wrap(ARSH_fake_script)()
+local function MCOAPOC_fake_script() -- Verify.Draggable 
+	local script = Instance.new('LocalScript', Verify)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.Verify
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(MCOAPOC_fake_script)()
+local function XRNQ_fake_script() -- Coded.LocalScript 
+	local script = Instance.new('LocalScript', Coded)
+
+	script.Parent.Text = math.random(1000, 990000)
+end
+coroutine.wrap(XRNQ_fake_script)()
+local function YQDDOX_fake_script() -- WalkSpeed.LocalScript 
+	local script = Instance.new('LocalScript', WalkSpeed)
+
+	local gui = script.Parent.Parent.Setm
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if gui.Visible == false then
+			gui.Visible = true
+	
+		else
+			gui.Visible = false
+		end
+	end)
+end
+coroutine.wrap(YQDDOX_fake_script)()
+local function AIRYI_fake_script() -- ScriptHub.LocalScript 
+	local script = Instance.new('LocalScript', ScriptHub)
+
+	local gui = script.Parent.Parent.ScriptHubs
+	
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if gui.Visible == false then
+			gui.Visible = true
+	
+		else
+			gui.Visible = false
+	
+		end
+	end)
+end
+coroutine.wrap(AIRYI_fake_script)()
+local function JLAD_fake_script() -- ScriptHub2.LocalScript 
+	local script = Instance.new('LocalScript', ScriptHub2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		local gui = script.Parent.Parent.ScriptHubs2
+		if gui.Visible == false then
+			gui.Visible = true
+		else
+			gui.Visible = false
+		end
+	end)
+end
+coroutine.wrap(JLAD_fake_script)()
+local function OQNU_fake_script() -- Shutdown.Notification 
+	local script = Instance.new('LocalScript', Shutdown)
+
+	local plr = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if plr.Name == "john_doe575757" then
+			game.StarterGui:SetCore("SendNotification", {Title = "Welcome!", Text = "Welcome! Developer John Doe!"})
+			-- Gui to Lua
+			-- Version: 3.2
+	
+			-- Instances:
+	
+			local RobloxHubX = Instance.new("ScreenGui")
+			local RobloxHubConsole = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local Panel = Instance.new("Frame")
+			local UICorner_2 = Instance.new("UICorner")
+			local txttxt = Instance.new("TextLabel")
+			local Box = Instance.new("TextBox")
+			local UICorner_3 = Instance.new("UICorner")
+			local Continue = Instance.new("TextButton")
+			local UICorner_4 = Instance.new("UICorner")
+			local Get = Instance.new("TextButton")
+			local UICorner_5 = Instance.new("UICorner")
+			local AccountBypass = Instance.new("TextButton")
+			local UICorner_6 = Instance.new("UICorner")
+			local Close = Instance.new("TextButton")
+			local UICorner_7 = Instance.new("UICorner")
+			local GetKey = Instance.new("Frame")
+			local UICorner_8 = Instance.new("UICorner")
+			local Panel_2 = Instance.new("Frame")
+			local UICorner_9 = Instance.new("UICorner")
+			local txttxt_2 = Instance.new("TextLabel")
+			local Start = Instance.new("TextButton")
+			local UICorner_10 = Instance.new("UICorner")
+			local TextBox = Instance.new("TextBox")
+			local UICorner_11 = Instance.new("UICorner")
+			local txttxt_3 = Instance.new("TextLabel")
+			local RobloxHubX_2 = Instance.new("Frame")
+			local UICorner_12 = Instance.new("UICorner")
+			local Panel_3 = Instance.new("Frame")
+			local UICorner_13 = Instance.new("UICorner")
+			local txttxt_4 = Instance.new("TextLabel")
+			local Close_2 = Instance.new("TextButton")
+			local UICorner_14 = Instance.new("UICorner")
+			local box = Instance.new("TextBox")
+			local UICorner_15 = Instance.new("UICorner")
+			local Shutdowm = Instance.new("TextButton")
+			local UICorner_16 = Instance.new("UICorner")
+			local Key = Instance.new("Frame")
+			local UICorner_17 = Instance.new("UICorner")
+			local Panel_4 = Instance.new("Frame")
+			local UICorner_18 = Instance.new("UICorner")
+			local txttxt_5 = Instance.new("TextLabel")
+			local Copy = Instance.new("TextButton")
+			local UICorner_19 = Instance.new("UICorner")
+			local txttxt_6 = Instance.new("TextLabel")
+			local Close_3 = Instance.new("TextButton")
+			local UICorner_20 = Instance.new("UICorner")
+			local ShutdownFrame = Instance.new("Frame")
+			local TextLabel = Instance.new("TextLabel")
+	
+			--Properties:
+	
+			RobloxHubX.Name = "RobloxHubX"
+			RobloxHubX.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			RobloxHubX.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+			RobloxHubConsole.Name = "RobloxHub - Console"
+			RobloxHubConsole.Parent = RobloxHubX
+			RobloxHubConsole.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			RobloxHubConsole.Position = UDim2.new(0.408460975, 0, 0.283435613, 0)
+			RobloxHubConsole.Size = UDim2.new(0, 519, 0, 394)
+	
+			UICorner.Parent = RobloxHubConsole
+	
+			Panel.Name = "Panel"
+			Panel.Parent = RobloxHubConsole
+			Panel.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_2.Parent = Panel
+	
+			txttxt.Name = "txt.txt"
+			txttxt.Parent = Panel
+			txttxt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt.BackgroundTransparency = 1.000
+			txttxt.Size = UDim2.new(0, 519, 0, 67)
+			txttxt.Font = Enum.Font.SourceSans
+			txttxt.Text = "RobloxHubX Console Key"
+			txttxt.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt.TextScaled = true
+			txttxt.TextSize = 14.000
+			txttxt.TextWrapped = true
+	
+			Box.Name = "Box"
+			Box.Parent = RobloxHubConsole
+			Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Box.Position = UDim2.new(0.0456600599, 0, 0.249622941, 0)
+			Box.Size = UDim2.new(0, 470, 0, 55)
+			Box.Font = Enum.Font.SourceSans
+			Box.Text = ""
+			Box.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Box.TextScaled = true
+			Box.TextSize = 14.000
+			Box.TextWrapped = true
+	
+			UICorner_3.Parent = Box
+	
+			Continue.Name = "Continue"
+			Continue.Parent = RobloxHubConsole
+			Continue.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Continue.Position = UDim2.new(0.0462427773, 0, 0.45207113, 0)
+			Continue.Size = UDim2.new(0, 470, 0, 50)
+			Continue.Font = Enum.Font.SourceSans
+			Continue.Text = "Check Key"
+			Continue.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Continue.TextScaled = true
+			Continue.TextSize = 14.000
+			Continue.TextWrapped = true
+	
+			UICorner_4.Parent = Continue
+	
+			Get.Name = "Get"
+			Get.Parent = RobloxHubConsole
+			Get.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Get.Position = UDim2.new(0.0462427773, 0, 0.631853461, 0)
+			Get.Size = UDim2.new(0, 470, 0, 50)
+			Get.Font = Enum.Font.SourceSans
+			Get.Text = "GetKey"
+			Get.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Get.TextScaled = true
+			Get.TextSize = 14.000
+			Get.TextWrapped = true
+	
+			UICorner_5.Parent = Get
+	
+			AccountBypass.Name = "Account Bypass"
+			AccountBypass.Parent = RobloxHubConsole
+			AccountBypass.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			AccountBypass.Position = UDim2.new(0.0462427773, 0, 0.803348541, 0)
+			AccountBypass.Size = UDim2.new(0, 470, 0, 50)
+			AccountBypass.Font = Enum.Font.SourceSans
+			AccountBypass.Text = "Account Bypass"
+			AccountBypass.TextColor3 = Color3.fromRGB(255, 255, 255)
+			AccountBypass.TextScaled = true
+			AccountBypass.TextSize = 14.000
+			AccountBypass.TextWrapped = true
+	
+			UICorner_6.Parent = AccountBypass
+	
+			Close.Name = "Close"
+			Close.Parent = RobloxHubConsole
+			Close.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close.Position = UDim2.new(0.14450869, 0, 0.928807795, 0)
+			Close.Size = UDim2.new(0, 348, 0, 28)
+			Close.Font = Enum.Font.SourceSans
+			Close.Text = "Close RobloxHubX"
+			Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close.TextScaled = true
+			Close.TextSize = 14.000
+			Close.TextWrapped = true
+	
+			UICorner_7.Parent = Close
+	
+			GetKey.Name = "GetKey"
+			GetKey.Parent = RobloxHubX
+			GetKey.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			GetKey.Position = UDim2.new(0.407731593, 0, 0.283435583, 0)
+			GetKey.Size = UDim2.new(0, 519, 0, 394)
+			GetKey.Visible = false
+	
+			UICorner_8.Parent = GetKey
+	
+			Panel_2.Name = "Panel"
+			Panel_2.Parent = GetKey
+			Panel_2.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_2.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_9.Parent = Panel_2
+	
+			txttxt_2.Name = "txt.txt"
+			txttxt_2.Parent = Panel_2
+			txttxt_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_2.BackgroundTransparency = 1.000
+			txttxt_2.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_2.Font = Enum.Font.SourceSans
+			txttxt_2.Text = "RobloxGuiX Get Key"
+			txttxt_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_2.TextScaled = true
+			txttxt_2.TextSize = 14.000
+			txttxt_2.TextWrapped = true
+	
+			Start.Name = "Start"
+			Start.Parent = GetKey
+			Start.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Start.Position = UDim2.new(0.0443159938, 0, 0.756639659, 0)
+			Start.Size = UDim2.new(0, 470, 0, 50)
+			Start.Font = Enum.Font.SourceSans
+			Start.Text = "Verify"
+			Start.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Start.TextScaled = true
+			Start.TextSize = 14.000
+			Start.TextWrapped = true
+	
+			UICorner_10.Parent = Start
+	
+			TextBox.Parent = GetKey
+			TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextBox.Position = UDim2.new(0.0597302504, 0, 0.502538085, 0)
+			TextBox.Size = UDim2.new(0, 456, 0, 50)
+			TextBox.Font = Enum.Font.SourceSans
+			TextBox.Text = ""
+			TextBox.TextColor3 = Color3.fromRGB(0, 0, 0)
+			TextBox.TextScaled = true
+			TextBox.TextSize = 14.000
+			TextBox.TextWrapped = true
+	
+			UICorner_11.Parent = TextBox
+	
+			txttxt_3.Name = "txt.txt"
+			txttxt_3.Parent = GetKey
+			txttxt_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_3.BackgroundTransparency = 1.000
+			txttxt_3.Position = UDim2.new(0.00192678231, 0, 0.281725883, 0)
+			txttxt_3.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_3.Font = Enum.Font.SourceSans
+			txttxt_3.Text = ""
+			txttxt_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_3.TextScaled = true
+			txttxt_3.TextSize = 14.000
+			txttxt_3.TextWrapped = true
+	
+			RobloxHubX_2.Name = "RobloxHubX"
+			RobloxHubX_2.Parent = RobloxHubX
+			RobloxHubX_2.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			RobloxHubX_2.Position = UDim2.new(0.407731593, 0, 0.283435583, 0)
+			RobloxHubX_2.Size = UDim2.new(0, 519, 0, 394)
+			RobloxHubX_2.Visible = false
+	
+			UICorner_12.Parent = RobloxHubX_2
+	
+			Panel_3.Name = "Panel"
+			Panel_3.Parent = RobloxHubX_2
+			Panel_3.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_3.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_13.Parent = Panel_3
+	
+			txttxt_4.Name = "txt.txt"
+			txttxt_4.Parent = Panel_3
+			txttxt_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_4.BackgroundTransparency = 1.000
+			txttxt_4.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_4.Font = Enum.Font.SourceSans
+			txttxt_4.Text = "ShutDown Panel"
+			txttxt_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_4.TextScaled = true
+			txttxt_4.TextSize = 14.000
+			txttxt_4.TextWrapped = true
+	
+			Close_2.Name = "Close"
+			Close_2.Parent = RobloxHubX_2
+			Close_2.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close_2.Position = UDim2.new(0.897880554, 0, -0.0022436229, 0)
+			Close_2.Size = UDim2.new(0, 53, 0, 49)
+			Close_2.Font = Enum.Font.SourceSans
+			Close_2.Text = "X"
+			Close_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close_2.TextScaled = true
+			Close_2.TextSize = 14.000
+			Close_2.TextWrapped = true
+	
+			UICorner_14.Parent = Close_2
+	
+			box.Name = "box"
+			box.Parent = RobloxHubX_2
+			box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			box.Position = UDim2.new(0.0770712942, 0, 0.327411175, 0)
+			box.Size = UDim2.new(0, 426, 0, 50)
+			box.Font = Enum.Font.SourceSans
+			box.Text = "Reason Here"
+			box.TextColor3 = Color3.fromRGB(0, 0, 0)
+			box.TextScaled = true
+			box.TextSize = 14.000
+			box.TextWrapped = true
+	
+			UICorner_15.Parent = box
+	
+			Shutdowm.Name = "Shutdowm"
+			Shutdowm.Parent = RobloxHubX_2
+			Shutdowm.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+			Shutdowm.Position = UDim2.new(0.0867052078, 0, 0.601522803, 0)
+			Shutdowm.Size = UDim2.new(0, 426, 0, 50)
+			Shutdowm.Font = Enum.Font.SourceSans
+			Shutdowm.Text = "ShutDown Server"
+			Shutdowm.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Shutdowm.TextScaled = true
+			Shutdowm.TextSize = 14.000
+			Shutdowm.TextWrapped = true
+	
+			UICorner_16.Parent = Shutdowm
+	
+			Key.Name = "Key"
+			Key.Parent = RobloxHubX
+			Key.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			Key.Position = UDim2.new(0.408460975, 0, 0.283435583, 0)
+			Key.Size = UDim2.new(0, 519, 0, 394)
+			Key.Visible = false
+	
+			UICorner_17.Parent = Key
+	
+			Panel_4.Name = "Panel"
+			Panel_4.Parent = Key
+			Panel_4.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_4.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_18.Parent = Panel_4
+	
+			txttxt_5.Name = "txt.txt"
+			txttxt_5.Parent = Panel_4
+			txttxt_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_5.BackgroundTransparency = 1.000
+			txttxt_5.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_5.Font = Enum.Font.SourceSans
+			txttxt_5.Text = "RobloxGuiX Key"
+			txttxt_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_5.TextScaled = true
+			txttxt_5.TextSize = 14.000
+			txttxt_5.TextWrapped = true
+	
+			Copy.Name = "Copy"
+			Copy.Parent = Key
+			Copy.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Copy.Position = UDim2.new(0.0597302541, 0, 0.675421357, 0)
+			Copy.Size = UDim2.new(0, 470, 0, 50)
+			Copy.Font = Enum.Font.SourceSans
+			Copy.Text = "Copy"
+			Copy.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Copy.TextScaled = true
+			Copy.TextSize = 14.000
+			Copy.TextWrapped = true
+	
+			UICorner_19.Parent = Copy
+	
+			txttxt_6.Name = "txt.txt"
+			txttxt_6.Parent = Key
+			txttxt_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_6.BackgroundTransparency = 1.000
+			txttxt_6.Position = UDim2.new(0.00192678231, 0, 0.281725883, 0)
+			txttxt_6.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_6.Font = Enum.Font.SourceSans
+			txttxt_6.Text = "sd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdfsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsdfkshjdhsfsnaifvhdifyuifvyuifvyhsaufyuifvyiofvyuayfuifvyuiyfcv8quffvyudfd"
+			txttxt_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_6.TextScaled = true
+			txttxt_6.TextSize = 14.000
+			txttxt_6.TextWrapped = true
+	
+			Close_3.Name = "Close"
+			Close_3.Parent = Key
+			Close_3.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close_3.Position = UDim2.new(0.897880554, 0, -0.0022436229, 0)
+			Close_3.Size = UDim2.new(0, 53, 0, 49)
+			Close_3.Font = Enum.Font.SourceSans
+			Close_3.Text = "X"
+			Close_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close_3.TextScaled = true
+			Close_3.TextSize = 14.000
+			Close_3.TextWrapped = true
+	
+			UICorner_20.Parent = Close_3
+	
+			ShutdownFrame.Name = "Shutdown Frame"
+			ShutdownFrame.Parent = RobloxHubX
+			ShutdownFrame.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			ShutdownFrame.BackgroundTransparency = 0.500
+			ShutdownFrame.Position = UDim2.new(-3.2552085e-05, 0, -0.120879121, 0)
+			ShutdownFrame.Size = UDim2.new(0, 1917, 0, 1020)
+			ShutdownFrame.Visible = false
+	
+			TextLabel.Parent = ShutdownFrame
+			TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.BackgroundTransparency = 1.000
+			TextLabel.Position = UDim2.new(0.120500766, 0, 0.181968465, 0)
+			TextLabel.Size = UDim2.new(0, 1103, 0, 677)
+			TextLabel.Font = Enum.Font.SourceSans
+			TextLabel.Text = "ShurDowning Server..."
+			TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.TextScaled = true
+			TextLabel.TextSize = 14.000
+			TextLabel.TextWrapped = true
+	
+			-- Scripts:
+	
+			local function LMAJYA_fake_script() -- RobloxHubConsole.Draggable 
+				local script = Instance.new('LocalScript', RobloxHubConsole)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent["RobloxHub - Console"]
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(LMAJYA_fake_script)()
+			local function EYOBF_fake_script() -- Continue.LocalScript 
+				local script = Instance.new('LocalScript', Continue)
+	
+				local gtxt = script.Parent.Parent.Parent.Key["txt.txt"]
+				local gui = script.Parent.Parent.Parent.RobloxHubX
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					local box = script.Parent.Parent.Box
+					if box.Text == gtxt.Text then
+						game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Correct Key!"})
+						game.StarterGui:SetCore("SendNotification", {Title = "Welcome!", Text = "Welcome User:"..game.Players.LocalPlayer.Name})
+						gui.Visible = true
+						script.Parent.Parent.Parent["RobloxHub - Console"].Visible = false
+					else
+						game.StarterGui:SetCore("SendNotification", {Title = "Failed :(", Text = "Failed To Connect."})
+					end
+				end)
+			end
+			coroutine.wrap(EYOBF_fake_script)()
+			local function OQVCLBJ_fake_script() -- Get.LocalScript 
+				local script = Instance.new('LocalScript', Get)
+	
+				local me = script.Parent.Parent.Parent["RobloxHub - Console"]
+				local gui = script.Parent.Parent.Parent.GetKey
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					me.Visible = false
+					gui.Visible = true
+				end)
+			end
+			coroutine.wrap(OQVCLBJ_fake_script)()
+			local function AHNJ_fake_script() -- AccountBypass.LocalScript 
+				local script = Instance.new('LocalScript', AccountBypass)
+	
+				local plr = game.Players.LocalPlayer
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" then
+						game.StarterGui:SetCore("SendNotification", {Title = "Correct Account!", Text = "Welcome! Whitelisted "..plr.Name.."!"})
+						local gui = script.Parent.Parent.Parent.RobloxHubX
+						gui.Visible = true
+						script.Parent.Parent.Parent["RobloxHub - Console"].Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(AHNJ_fake_script)()
+			local function WKXUYVH_fake_script() -- Close.LocalScript 
+				local script = Instance.new('LocalScript', Close)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					game.StarterGui:SetCore("SendNotification", {Title = "Closed!", Text = "RobloxHubX Is Closed!"})
+					local gui = script.Parent.Parent.Parent["RobloxHub - Console"]
+					gui.Visible = false
+				end)
+			end
+			coroutine.wrap(WKXUYVH_fake_script)()
+			local function YKCDRQB_fake_script() -- GetKey.Draggable 
+				local script = Instance.new('LocalScript', GetKey)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.GetKey
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(YKCDRQB_fake_script)()
+			local function XOKUE_fake_script() -- Start.LocalScript 
+				local script = Instance.new('LocalScript', Start)
+	
+				local txt = script.Parent.Parent["txt.txt"]
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					local box = script.Parent.Parent.TextBox
+					if box.Text == txt.Text then
+						game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Successfully Verifyed! Now Key Load!"})
+						script.Parent.Parent.Parent.GetKey.Visible = false
+						script.Parent.Parent.Parent.Key.Visible = true
+					else
+						game.StarterGui:SetCore("SendNotification", {Title = "Failed.!", Text = "Failed To Continue."})
+					end
+				end)
+			end
+			coroutine.wrap(XOKUE_fake_script)()
+			local function INVA_fake_script() -- txttxt_3.LocalScript 
+				local script = Instance.new('LocalScript', txttxt_3)
+	
+				script.Parent.Text = math.random(1000, 990000)
+			end
+			coroutine.wrap(INVA_fake_script)()
+			local function POPW_fake_script() -- RobloxHubX_2.Draggable 
+				local script = Instance.new('LocalScript', RobloxHubX_2)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.RobloxHubX
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(POPW_fake_script)()
+			local function FBEK_fake_script() -- Close_2.LocalScript 
+				local script = Instance.new('LocalScript', Close_2)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					script.Parent.Parent.Parent.RobloxHubX.Visible = false
+				end)
+			end
+			coroutine.wrap(FBEK_fake_script)()
+			local function GQJTEWU_fake_script() -- Shutdowm.LocalScript 
+				local script = Instance.new('LocalScript', Shutdowm)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					game.StarterGui:SetCore("SendNotification", {Title = "Server Closing!", Text = "ShutDowning Server..."})
+					local plr = game.Players.LocalPlayer
+					local gui = script.Parent.Parent.Parent["Shutdown Frame"]
+					gui.Visible = true
+					wait(4)
+					plr:Kick(" // Reason:"..script.Parent.Parent.box.Text.." // Shutdowned By "..plr.Name)
+				end)
+			end
+			coroutine.wrap(GQJTEWU_fake_script)()
+			local function QKYKX_fake_script() -- Key.Draggable 
+				local script = Instance.new('LocalScript', Key)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.Key
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(QKYKX_fake_script)()
+			local function LVCD_fake_script() -- Copy.LocalScript 
+				local script = Instance.new('LocalScript', Copy)
+	
+				local text = script.Parent.Parent["txt.txt"]
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					setclipboard(text.Text)
+					game.StarterGui:SetCore("SendNotification", {Title = "Copyed!", Text = "Successfully Copyed Key!"})
+				end)
+			end
+			coroutine.wrap(LVCD_fake_script)()
+			local function NRBH_fake_script() -- txttxt_6.LocalScript 
+				local script = Instance.new('LocalScript', txttxt_6)
+	
+				script.Parent.Text = math.random(1000, 990000)
+			end
+			coroutine.wrap(NRBH_fake_script)()
+			local function IIOSKZF_fake_script() -- Close_3.LocalScript 
+				local script = Instance.new('LocalScript', Close_3)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					script.Parent.Parent.Parent.Key.Visible = false
+					script.Parent.Parent.Parent["RobloxHub - Console"].Visible = true
+				end)
+			end
+			coroutine.wrap(IIOSKZF_fake_script)()
+		elseif plr.Name == "ROBLOXRTYUIOPQw" then
+			game.StarterGui:SetCore("SendNotification", {Title = "Welcome! WhiteListed User:"..plr.Name.."!"})
+			-- Gui to Lua
+			-- Version: 3.2
+	
+			-- Instances:
+	
+			local RobloxHubX = Instance.new("ScreenGui")
+			local RobloxHubConsole = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local Panel = Instance.new("Frame")
+			local UICorner_2 = Instance.new("UICorner")
+			local txttxt = Instance.new("TextLabel")
+			local Box = Instance.new("TextBox")
+			local UICorner_3 = Instance.new("UICorner")
+			local Continue = Instance.new("TextButton")
+			local UICorner_4 = Instance.new("UICorner")
+			local Get = Instance.new("TextButton")
+			local UICorner_5 = Instance.new("UICorner")
+			local AccountBypass = Instance.new("TextButton")
+			local UICorner_6 = Instance.new("UICorner")
+			local Close = Instance.new("TextButton")
+			local UICorner_7 = Instance.new("UICorner")
+			local GetKey = Instance.new("Frame")
+			local UICorner_8 = Instance.new("UICorner")
+			local Panel_2 = Instance.new("Frame")
+			local UICorner_9 = Instance.new("UICorner")
+			local txttxt_2 = Instance.new("TextLabel")
+			local Start = Instance.new("TextButton")
+			local UICorner_10 = Instance.new("UICorner")
+			local TextBox = Instance.new("TextBox")
+			local UICorner_11 = Instance.new("UICorner")
+			local txttxt_3 = Instance.new("TextLabel")
+			local RobloxHubX_2 = Instance.new("Frame")
+			local UICorner_12 = Instance.new("UICorner")
+			local Panel_3 = Instance.new("Frame")
+			local UICorner_13 = Instance.new("UICorner")
+			local txttxt_4 = Instance.new("TextLabel")
+			local Close_2 = Instance.new("TextButton")
+			local UICorner_14 = Instance.new("UICorner")
+			local box = Instance.new("TextBox")
+			local UICorner_15 = Instance.new("UICorner")
+			local Shutdowm = Instance.new("TextButton")
+			local UICorner_16 = Instance.new("UICorner")
+			local Key = Instance.new("Frame")
+			local UICorner_17 = Instance.new("UICorner")
+			local Panel_4 = Instance.new("Frame")
+			local UICorner_18 = Instance.new("UICorner")
+			local txttxt_5 = Instance.new("TextLabel")
+			local Copy = Instance.new("TextButton")
+			local UICorner_19 = Instance.new("UICorner")
+			local txttxt_6 = Instance.new("TextLabel")
+			local Close_3 = Instance.new("TextButton")
+			local UICorner_20 = Instance.new("UICorner")
+			local ShutdownFrame = Instance.new("Frame")
+			local TextLabel = Instance.new("TextLabel")
+	
+			--Properties:
+	
+			RobloxHubX.Name = "RobloxHubX"
+			RobloxHubX.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			RobloxHubX.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+			RobloxHubConsole.Name = "RobloxHub - Console"
+			RobloxHubConsole.Parent = RobloxHubX
+			RobloxHubConsole.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			RobloxHubConsole.Position = UDim2.new(0.408460975, 0, 0.283435613, 0)
+			RobloxHubConsole.Size = UDim2.new(0, 519, 0, 394)
+	
+			UICorner.Parent = RobloxHubConsole
+	
+			Panel.Name = "Panel"
+			Panel.Parent = RobloxHubConsole
+			Panel.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_2.Parent = Panel
+	
+			txttxt.Name = "txt.txt"
+			txttxt.Parent = Panel
+			txttxt.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt.BackgroundTransparency = 1.000
+			txttxt.Size = UDim2.new(0, 519, 0, 67)
+			txttxt.Font = Enum.Font.SourceSans
+			txttxt.Text = "RobloxHubX Console Key"
+			txttxt.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt.TextScaled = true
+			txttxt.TextSize = 14.000
+			txttxt.TextWrapped = true
+	
+			Box.Name = "Box"
+			Box.Parent = RobloxHubConsole
+			Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Box.Position = UDim2.new(0.0456600599, 0, 0.249622941, 0)
+			Box.Size = UDim2.new(0, 470, 0, 55)
+			Box.Font = Enum.Font.SourceSans
+			Box.Text = ""
+			Box.TextColor3 = Color3.fromRGB(0, 0, 0)
+			Box.TextScaled = true
+			Box.TextSize = 14.000
+			Box.TextWrapped = true
+	
+			UICorner_3.Parent = Box
+	
+			Continue.Name = "Continue"
+			Continue.Parent = RobloxHubConsole
+			Continue.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Continue.Position = UDim2.new(0.0462427773, 0, 0.45207113, 0)
+			Continue.Size = UDim2.new(0, 470, 0, 50)
+			Continue.Font = Enum.Font.SourceSans
+			Continue.Text = "Check Key"
+			Continue.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Continue.TextScaled = true
+			Continue.TextSize = 14.000
+			Continue.TextWrapped = true
+	
+			UICorner_4.Parent = Continue
+	
+			Get.Name = "Get"
+			Get.Parent = RobloxHubConsole
+			Get.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Get.Position = UDim2.new(0.0462427773, 0, 0.631853461, 0)
+			Get.Size = UDim2.new(0, 470, 0, 50)
+			Get.Font = Enum.Font.SourceSans
+			Get.Text = "GetKey"
+			Get.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Get.TextScaled = true
+			Get.TextSize = 14.000
+			Get.TextWrapped = true
+	
+			UICorner_5.Parent = Get
+	
+			AccountBypass.Name = "Account Bypass"
+			AccountBypass.Parent = RobloxHubConsole
+			AccountBypass.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			AccountBypass.Position = UDim2.new(0.0462427773, 0, 0.803348541, 0)
+			AccountBypass.Size = UDim2.new(0, 470, 0, 50)
+			AccountBypass.Font = Enum.Font.SourceSans
+			AccountBypass.Text = "Account Bypass"
+			AccountBypass.TextColor3 = Color3.fromRGB(255, 255, 255)
+			AccountBypass.TextScaled = true
+			AccountBypass.TextSize = 14.000
+			AccountBypass.TextWrapped = true
+	
+			UICorner_6.Parent = AccountBypass
+	
+			Close.Name = "Close"
+			Close.Parent = RobloxHubConsole
+			Close.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close.Position = UDim2.new(0.14450869, 0, 0.928807795, 0)
+			Close.Size = UDim2.new(0, 348, 0, 28)
+			Close.Font = Enum.Font.SourceSans
+			Close.Text = "Close RobloxHubX"
+			Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close.TextScaled = true
+			Close.TextSize = 14.000
+			Close.TextWrapped = true
+	
+			UICorner_7.Parent = Close
+	
+			GetKey.Name = "GetKey"
+			GetKey.Parent = RobloxHubX
+			GetKey.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			GetKey.Position = UDim2.new(0.407731593, 0, 0.283435583, 0)
+			GetKey.Size = UDim2.new(0, 519, 0, 394)
+			GetKey.Visible = false
+	
+			UICorner_8.Parent = GetKey
+	
+			Panel_2.Name = "Panel"
+			Panel_2.Parent = GetKey
+			Panel_2.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_2.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_9.Parent = Panel_2
+	
+			txttxt_2.Name = "txt.txt"
+			txttxt_2.Parent = Panel_2
+			txttxt_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_2.BackgroundTransparency = 1.000
+			txttxt_2.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_2.Font = Enum.Font.SourceSans
+			txttxt_2.Text = "RobloxGuiX Get Key"
+			txttxt_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_2.TextScaled = true
+			txttxt_2.TextSize = 14.000
+			txttxt_2.TextWrapped = true
+	
+			Start.Name = "Start"
+			Start.Parent = GetKey
+			Start.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Start.Position = UDim2.new(0.0443159938, 0, 0.756639659, 0)
+			Start.Size = UDim2.new(0, 470, 0, 50)
+			Start.Font = Enum.Font.SourceSans
+			Start.Text = "Verify"
+			Start.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Start.TextScaled = true
+			Start.TextSize = 14.000
+			Start.TextWrapped = true
+	
+			UICorner_10.Parent = Start
+	
+			TextBox.Parent = GetKey
+			TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextBox.Position = UDim2.new(0.0597302504, 0, 0.502538085, 0)
+			TextBox.Size = UDim2.new(0, 456, 0, 50)
+			TextBox.Font = Enum.Font.SourceSans
+			TextBox.Text = ""
+			TextBox.TextColor3 = Color3.fromRGB(0, 0, 0)
+			TextBox.TextScaled = true
+			TextBox.TextSize = 14.000
+			TextBox.TextWrapped = true
+	
+			UICorner_11.Parent = TextBox
+	
+			txttxt_3.Name = "txt.txt"
+			txttxt_3.Parent = GetKey
+			txttxt_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_3.BackgroundTransparency = 1.000
+			txttxt_3.Position = UDim2.new(0.00192678231, 0, 0.281725883, 0)
+			txttxt_3.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_3.Font = Enum.Font.SourceSans
+			txttxt_3.Text = ""
+			txttxt_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_3.TextScaled = true
+			txttxt_3.TextSize = 14.000
+			txttxt_3.TextWrapped = true
+	
+			RobloxHubX_2.Name = "RobloxHubX"
+			RobloxHubX_2.Parent = RobloxHubX
+			RobloxHubX_2.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			RobloxHubX_2.Position = UDim2.new(0.407731593, 0, 0.283435583, 0)
+			RobloxHubX_2.Size = UDim2.new(0, 519, 0, 394)
+			RobloxHubX_2.Visible = false
+	
+			UICorner_12.Parent = RobloxHubX_2
+	
+			Panel_3.Name = "Panel"
+			Panel_3.Parent = RobloxHubX_2
+			Panel_3.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_3.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_13.Parent = Panel_3
+	
+			txttxt_4.Name = "txt.txt"
+			txttxt_4.Parent = Panel_3
+			txttxt_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_4.BackgroundTransparency = 1.000
+			txttxt_4.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_4.Font = Enum.Font.SourceSans
+			txttxt_4.Text = "ShutDown Panel"
+			txttxt_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_4.TextScaled = true
+			txttxt_4.TextSize = 14.000
+			txttxt_4.TextWrapped = true
+	
+			Close_2.Name = "Close"
+			Close_2.Parent = RobloxHubX_2
+			Close_2.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close_2.Position = UDim2.new(0.897880554, 0, -0.0022436229, 0)
+			Close_2.Size = UDim2.new(0, 53, 0, 49)
+			Close_2.Font = Enum.Font.SourceSans
+			Close_2.Text = "X"
+			Close_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close_2.TextScaled = true
+			Close_2.TextSize = 14.000
+			Close_2.TextWrapped = true
+	
+			UICorner_14.Parent = Close_2
+	
+			box.Name = "box"
+			box.Parent = RobloxHubX_2
+			box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			box.Position = UDim2.new(0.0770712942, 0, 0.327411175, 0)
+			box.Size = UDim2.new(0, 426, 0, 50)
+			box.Font = Enum.Font.SourceSans
+			box.Text = "Reason Here"
+			box.TextColor3 = Color3.fromRGB(0, 0, 0)
+			box.TextScaled = true
+			box.TextSize = 14.000
+			box.TextWrapped = true
+	
+			UICorner_15.Parent = box
+	
+			Shutdowm.Name = "Shutdowm"
+			Shutdowm.Parent = RobloxHubX_2
+			Shutdowm.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+			Shutdowm.Position = UDim2.new(0.0867052078, 0, 0.601522803, 0)
+			Shutdowm.Size = UDim2.new(0, 426, 0, 50)
+			Shutdowm.Font = Enum.Font.SourceSans
+			Shutdowm.Text = "ShutDown Server"
+			Shutdowm.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Shutdowm.TextScaled = true
+			Shutdowm.TextSize = 14.000
+			Shutdowm.TextWrapped = true
+	
+			UICorner_16.Parent = Shutdowm
+	
+			Key.Name = "Key"
+			Key.Parent = RobloxHubX
+			Key.BackgroundColor3 = Color3.fromRGB(106, 106, 106)
+			Key.Position = UDim2.new(0.408460975, 0, 0.283435583, 0)
+			Key.Size = UDim2.new(0, 519, 0, 394)
+			Key.Visible = false
+	
+			UICorner_17.Parent = Key
+	
+			Panel_4.Name = "Panel"
+			Panel_4.Parent = Key
+			Panel_4.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			Panel_4.Size = UDim2.new(0, 519, 0, 67)
+	
+			UICorner_18.Parent = Panel_4
+	
+			txttxt_5.Name = "txt.txt"
+			txttxt_5.Parent = Panel_4
+			txttxt_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_5.BackgroundTransparency = 1.000
+			txttxt_5.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_5.Font = Enum.Font.SourceSans
+			txttxt_5.Text = "RobloxGuiX Key"
+			txttxt_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_5.TextScaled = true
+			txttxt_5.TextSize = 14.000
+			txttxt_5.TextWrapped = true
+	
+			Copy.Name = "Copy"
+			Copy.Parent = Key
+			Copy.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Copy.Position = UDim2.new(0.0597302541, 0, 0.675421357, 0)
+			Copy.Size = UDim2.new(0, 470, 0, 50)
+			Copy.Font = Enum.Font.SourceSans
+			Copy.Text = "Copy"
+			Copy.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Copy.TextScaled = true
+			Copy.TextSize = 14.000
+			Copy.TextWrapped = true
+	
+			UICorner_19.Parent = Copy
+	
+			txttxt_6.Name = "txt.txt"
+			txttxt_6.Parent = Key
+			txttxt_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_6.BackgroundTransparency = 1.000
+			txttxt_6.Position = UDim2.new(0.00192678231, 0, 0.281725883, 0)
+			txttxt_6.Size = UDim2.new(0, 519, 0, 67)
+			txttxt_6.Font = Enum.Font.SourceSans
+			txttxt_6.Text = "sd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvdfsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsd49f4esrrfg45sa6f4c64f2c6wf4v56fsdf4v6dv46ds4fv6as4fv6d4v8gds4gv4685f4g8v4rt968gv4dsfvdfs49fvdf49v4e298fv24fs9vg4df89vf4w526fv42vf4fsc89dgv5df6gv4dfv4df6v46df4svf6sd4fscvd64f256d4gv 5fg4vfd4v6dfgvsdfkshjdhsfsnaifvhdifyuifvyuifvyhsaufyuifvyiofvyuayfuifvyuiyfcv8quffvyudfd"
+			txttxt_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+			txttxt_6.TextScaled = true
+			txttxt_6.TextSize = 14.000
+			txttxt_6.TextWrapped = true
+	
+			Close_3.Name = "Close"
+			Close_3.Parent = Key
+			Close_3.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Close_3.Position = UDim2.new(0.897880554, 0, -0.0022436229, 0)
+			Close_3.Size = UDim2.new(0, 53, 0, 49)
+			Close_3.Font = Enum.Font.SourceSans
+			Close_3.Text = "X"
+			Close_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+			Close_3.TextScaled = true
+			Close_3.TextSize = 14.000
+			Close_3.TextWrapped = true
+	
+			UICorner_20.Parent = Close_3
+	
+			ShutdownFrame.Name = "Shutdown Frame"
+			ShutdownFrame.Parent = RobloxHubX
+			ShutdownFrame.BackgroundColor3 = Color3.fromRGB(58, 58, 58)
+			ShutdownFrame.BackgroundTransparency = 0.500
+			ShutdownFrame.Position = UDim2.new(-3.2552085e-05, 0, -0.120879121, 0)
+			ShutdownFrame.Size = UDim2.new(0, 1917, 0, 1020)
+			ShutdownFrame.Visible = false
+	
+			TextLabel.Parent = ShutdownFrame
+			TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.BackgroundTransparency = 1.000
+			TextLabel.Position = UDim2.new(0.120500766, 0, 0.181968465, 0)
+			TextLabel.Size = UDim2.new(0, 1103, 0, 677)
+			TextLabel.Font = Enum.Font.SourceSans
+			TextLabel.Text = "ShurDowning Server..."
+			TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			TextLabel.TextScaled = true
+			TextLabel.TextSize = 14.000
+			TextLabel.TextWrapped = true
+	
+			-- Scripts:
+	
+			local function LMAJYA_fake_script() -- RobloxHubConsole.Draggable 
+				local script = Instance.new('LocalScript', RobloxHubConsole)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent["RobloxHub - Console"]
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(LMAJYA_fake_script)()
+			local function EYOBF_fake_script() -- Continue.LocalScript 
+				local script = Instance.new('LocalScript', Continue)
+	
+				local gtxt = script.Parent.Parent.Parent.Key["txt.txt"]
+				local gui = script.Parent.Parent.Parent.RobloxHubX
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					local box = script.Parent.Parent.Box
+					if box.Text == gtxt.Text then
+						game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Correct Key!"})
+						game.StarterGui:SetCore("SendNotification", {Title = "Welcome!", Text = "Welcome User:"..game.Players.LocalPlayer.Name})
+						gui.Visible = true
+						script.Parent.Parent.Parent["RobloxHub - Console"].Visible = false
+					else
+						game.StarterGui:SetCore("SendNotification", {Title = "Failed :(", Text = "Failed To Connect."})
+					end
+				end)
+			end
+			coroutine.wrap(EYOBF_fake_script)()
+			local function OQVCLBJ_fake_script() -- Get.LocalScript 
+				local script = Instance.new('LocalScript', Get)
+	
+				local me = script.Parent.Parent.Parent["RobloxHub - Console"]
+				local gui = script.Parent.Parent.Parent.GetKey
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					me.Visible = false
+					gui.Visible = true
+				end)
+			end
+			coroutine.wrap(OQVCLBJ_fake_script)()
+			local function AHNJ_fake_script() -- AccountBypass.LocalScript 
+				local script = Instance.new('LocalScript', AccountBypass)
+	
+				local plr = game.Players.LocalPlayer
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" then
+						game.StarterGui:SetCore("SendNotification", {Title = "Correct Account!", Text = "Welcome! Whitelisted "..plr.Name.."!"})
+						local gui = script.Parent.Parent.Parent.RobloxHubX
+						gui.Visible = true
+						script.Parent.Parent.Parent["RobloxHub - Console"].Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(AHNJ_fake_script)()
+			local function WKXUYVH_fake_script() -- Close.LocalScript 
+				local script = Instance.new('LocalScript', Close)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					game.StarterGui:SetCore("SendNotification", {Title = "Closed!", Text = "RobloxHubX Is Closed!"})
+					local gui = script.Parent.Parent.Parent["RobloxHub - Console"]
+					gui.Visible = false
+				end)
+			end
+			coroutine.wrap(WKXUYVH_fake_script)()
+			local function YKCDRQB_fake_script() -- GetKey.Draggable 
+				local script = Instance.new('LocalScript', GetKey)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.GetKey
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(YKCDRQB_fake_script)()
+			local function XOKUE_fake_script() -- Start.LocalScript 
+				local script = Instance.new('LocalScript', Start)
+	
+				local txt = script.Parent.Parent["txt.txt"]
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					local box = script.Parent.Parent.TextBox
+					if box.Text == txt.Text then
+						game.StarterGui:SetCore("SendNotification", {Title = "Success!", Text = "Successfully Verifyed! Now Key Load!"})
+						script.Parent.Parent.Parent.GetKey.Visible = false
+						script.Parent.Parent.Parent.Key.Visible = true
+					else
+						game.StarterGui:SetCore("SendNotification", {Title = "Failed.!", Text = "Failed To Continue."})
+					end
+				end)
+			end
+			coroutine.wrap(XOKUE_fake_script)()
+			local function INVA_fake_script() -- txttxt_3.LocalScript 
+				local script = Instance.new('LocalScript', txttxt_3)
+	
+				script.Parent.Text = math.random(1000, 990000)
+			end
+			coroutine.wrap(INVA_fake_script)()
+			local function POPW_fake_script() -- RobloxHubX_2.Draggable 
+				local script = Instance.new('LocalScript', RobloxHubX_2)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.RobloxHubX
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(POPW_fake_script)()
+			local function FBEK_fake_script() -- Close_2.LocalScript 
+				local script = Instance.new('LocalScript', Close_2)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					script.Parent.Parent.Parent.RobloxHubX.Visible = false
+				end)
+			end
+			coroutine.wrap(FBEK_fake_script)()
+			local function GQJTEWU_fake_script() -- Shutdowm.LocalScript 
+				local script = Instance.new('LocalScript', Shutdowm)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					game.StarterGui:SetCore("SendNotification", {Title = "Server Closing!", Text = "ShutDowning Server..."})
+					local plr = game.Players.LocalPlayer
+					local gui = script.Parent.Parent.Parent["Shutdown Frame"]
+					gui.Visible = true
+					wait(4)
+					plr:Kick(" // Reason:"..script.Parent.Parent.box.Text.." // Shutdowned By "..plr.Name)
+				end)
+			end
+			coroutine.wrap(GQJTEWU_fake_script)()
+			local function QKYKX_fake_script() -- Key.Draggable 
+				local script = Instance.new('LocalScript', Key)
+	
+				local UIS = game:GetService('UserInputService')
+				local frame = script.Parent.Parent.Key
+				local dragToggle = nil
+				local dragSpeed = 0.25
+				local dragStart = nil
+				local startPos = nil
+	
+				local function updateInput(input)
+					local delta = input.Position - dragStart
+					local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+						startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+					game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+				end
+	
+				frame.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+						dragToggle = true
+						dragStart = input.Position
+						startPos = frame.Position
+						input.Changed:Connect(function()
+							if input.UserInputState == Enum.UserInputState.End then
+								dragToggle = false
+							end
+						end)
+					end
+				end)
+	
+				UIS.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						if dragToggle then
+							updateInput(input)
+						end
+					end
+				end)
+	
+			end
+			coroutine.wrap(QKYKX_fake_script)()
+			local function LVCD_fake_script() -- Copy.LocalScript 
+				local script = Instance.new('LocalScript', Copy)
+	
+				local text = script.Parent.Parent["txt.txt"]
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					setclipboard(text.Text)
+					game.StarterGui:SetCore("SendNotification", {Title = "Copyed!", Text = "Successfully Copyed Key!"})
+				end)
+			end
+			coroutine.wrap(LVCD_fake_script)()
+			local function NRBH_fake_script() -- txttxt_6.LocalScript 
+				local script = Instance.new('LocalScript', txttxt_6)
+	
+				script.Parent.Text = math.random(1000, 990000)
+			end
+			coroutine.wrap(NRBH_fake_script)()
+			local function IIOSKZF_fake_script() -- Close_3.LocalScript 
+				local script = Instance.new('LocalScript', Close_3)
+	
+				script.Parent.MouseButton1Click:Connect(function()
+					script.Parent.Parent.Parent.Key.Visible = false
+					script.Parent.Parent.Parent["RobloxHub - Console"].Visible = true
+				end)
+			end
+			coroutine.wrap(IIOSKZF_fake_script)()
+		else
+			game.StarterGui:SetCore("SendNotification", {Title = "Failed :(", Text = "Failed Connect To ShutDown UI."})
+			game.StarterGui:SetCore("SendNotification", {Title = "Reason", Text = "Reason:You Not Special User Or VIP User! // Hint: VIPs are paid // VIP is Perm! // It takes time to complete the order."})
+			game.StarterGui:SetCore("SendNotification", {Title = "Discord", Text = "Developer DisCord=RobloxAlpha#4338"})
+			game.StarterGui:SetCore("SendNotification", {Title = "Hint2!", Text = "Order completion is most likely to be completed on the weekend in Korea time."})
+		end
+	end)
+end
+coroutine.wrap(OQNU_fake_script)()
+local function LAIAPS_fake_script() -- Maded.LocalScript 
+	local script = Instance.new('LocalScript', Maded)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game.StarterGui:SetCore("SendNotification", {Title = "Edition Or Script", Text = "Loaded JavaScript, Loaded JavaEdition"})
+		game.StarterGui:SetCore("SendNotification", {Title = "Simple Ui Loaded.", Text = "This is Allowed For All so this is Simple UI Of Once Key if you died for you need get key again."})
+	end)
+end
+coroutine.wrap(LAIAPS_fake_script)()
+local function BYKH_fake_script() -- Credit.LocalScript 
+	local script = Instance.new('LocalScript', Credit)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game.StarterGui:SetCore("SendNotification", {Title = "Credits!", Text = "Discord : RobloxAlpha#4338"})
+	end)
+end
+coroutine.wrap(BYKH_fake_script)()
+local function OGXIJ_fake_script() -- _5.LocalScript 
+	local script = Instance.new('LocalScript', _5)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		game.StarterGui:SetCore("SendNotification", {Title = "Not Updated!", Text = "This is Not Updated."})
+	end)
+end
+coroutine.wrap(OGXIJ_fake_script)()
+local function PFBE_fake_script() -- Speed.LocalScript 
+	local script = Instance.new('LocalScript', Speed)
+
+	local plr = game.Players.LocalPlayer
+	local box = script.Parent.Parent.Here
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		plr.Character:WaitForChild("Humanoid").WalkSpeed = plr.Character:WaitForChild("Humanoid").WalkSpeed + box.Text
+		if box.Text > 200 then
+			plr:LoadCharacter()
+		end
+	end)
+end
+coroutine.wrap(PFBE_fake_script)()
+local function XWYIQ_fake_script() -- JumpPower.LocalScript 
+	local script = Instance.new('LocalScript', JumpPower)
+
+	local box = script.Parent.Parent.Here
+	local plr = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		plr.Character:WaitForChild("Humanoid").JumpPower = plr.Character:WaitForChild("Humanoid").JumpPower + box.Text
+	end)
+end
+coroutine.wrap(XWYIQ_fake_script)()
+local function UKWYCWU_fake_script() -- Setm.Draggable 
+	local script = Instance.new('LocalScript', Setm)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(UKWYCWU_fake_script)()
+local function ZAFSZD_fake_script() -- MainFrame.Draggable 
+	local script = Instance.new('LocalScript', MainFrame)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.MainFrame
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(ZAFSZD_fake_script)()
+local function VDEHXK_fake_script() -- InfiniteYield.LocalScript 
+	local script = Instance.new('LocalScript', InfiniteYield)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+	end)
+end
+coroutine.wrap(VDEHXK_fake_script)()
+local function XBXF_fake_script() -- PetSim.LocalScript 
+	local script = Instance.new('LocalScript', PetSim)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/HugeCatsObfuscated.lua",true))()
+	end)
+end
+coroutine.wrap(XBXF_fake_script)()
+local function LSNSS_fake_script() -- EnableReset.LocalScript 
+	local script = Instance.new('LocalScript', EnableReset)
+
+	--[[
+	     Enable Reset Character
+	     By: OpenGamerTips
+	
+	     NOTE:
+	     This script enables the abillity to reset your character, but this script executes the enabler every split second.
+	     Do not execute the script again, as it will stress your script executor.
+	]]--
+	
+	while true do
+		game:GetService("StarterGui"):SetCore("ResetButtonCallback", true)
+		game:GetService("RunService").RenderStepped:Wait()
+	end
+	
+end
+coroutine.wrap(LSNSS_fake_script)()
+local function TGDD_fake_script() -- antiafk.LocalScript 
+	local script = Instance.new('LocalScript', antiafk)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+			vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+			wait(1)
+			vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
+	end)
+end
+coroutine.wrap(TGDD_fake_script)()
+local function XXSDL_fake_script() -- BedWarsVape.LocalScript 
+	local script = Instance.new('LocalScript', BedWarsVape)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+	end)
+end
+coroutine.wrap(XXSDL_fake_script)()
+local function EJFYGFC_fake_script() -- CountBlox.LocalScript 
+	local script = Instance.new('LocalScript', CountBlox)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/venosu/Hex-Hub/main/hexhub.lua'))()
+	end)
+end
+coroutine.wrap(EJFYGFC_fake_script)()
+local function THPZC_fake_script() -- CliendFreeadmincommand.LocalScript 
+	local script = Instance.new('LocalScript', CliendFreeadmincommand)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		--[[
+		Hello this script was made by: Keng Vang
+		What this script can do:
+		Punish, and Silent CMD.
+		this is in beta kinda i think. so if the
+		Punish dosent work remember its in beta :D
+	--]]
+	
+		local ScreenGui = Instance.new("ScreenGui")
+		local Main = Instance.new("Frame")
+		local Punish = Instance.new("TextButton")
+		local SilentCMD = Instance.new("TextButton")
+		local Box = Instance.new("TextBox")
+		local X = Instance.new("TextButton")
+	
+		ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+		ScreenGui.ResetOnSpawn = false
+	
+		Main.Name = "Main"
+		Main.Parent = ScreenGui
+		Main.BackgroundColor3 = Color3.new(0.333333, 0.666667, 0.498039)
+		Main.BorderSizePixel = 4
+		Main.Position = UDim2.new(0.117575757, 0, 0.152334154, 0)
+		Main.Size = UDim2.new(0, 334, 0, 138)
+		Main.Active = true
+		Main.Draggable = true
+	
+		Punish.Name = "Punish"
+		Punish.Parent = Main
+		Punish.BackgroundColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		Punish.BorderColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		Punish.Position = UDim2.new(0.0209580846, 0, 0.594202876, 0)
+		Punish.Size = UDim2.new(0, 162, 0, 50)
+		Punish.Font = Enum.Font.GothamBlack
+		Punish.Text = "PUNISH"
+		Punish.TextColor3 = Color3.new(1, 1, 1)
+		Punish.TextSize = 14
+		Punish.TextStrokeColor3 = Color3.new(1, 1, 1)
+	
+		SilentCMD.Name = "SilentCMD"
+		SilentCMD.Parent = Main
+		SilentCMD.BackgroundColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		SilentCMD.BorderColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		SilentCMD.Position = UDim2.new(0.514970064, 0, 0.594202876, 0)
+		SilentCMD.Size = UDim2.new(0, 152, 0, 50)
+		SilentCMD.Font = Enum.Font.Gotham
+		SilentCMD.Text = "Silent CMD"
+		SilentCMD.TextColor3 = Color3.new(1, 1, 1)
+		SilentCMD.TextSize = 14
+		SilentCMD.TextStrokeColor3 = Color3.new(1, 1, 1)
+	
+		Box.Name = "Box"
+		Box.Parent = Main
+		Box.BackgroundColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		Box.BorderColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		Box.Position = UDim2.new(0.0209580846, 0, 0.159420297, 0)
+		Box.Size = UDim2.new(0, 317, 0, 50)
+		Box.ClearTextOnFocus = false
+		Box.Font = Enum.Font.SourceSans
+		Box.PlaceholderColor3 = Color3.new(0.294118, 1, 0.764706)
+		Box.PlaceholderText = "Enter Here"
+		Box.Text = ""
+		Box.TextColor3 = Color3.new(0.0235294, 1, 0.513726)
+		Box.TextScaled = true
+		Box.TextSize = 30
+		Box.TextWrapped = true
+	
+		X.Name = "X"
+		X.Parent = Main
+		X.BackgroundColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		X.BorderColor3 = Color3.new(0.168627, 0.513726, 0.25098)
+		X.BorderSizePixel = 0
+		X.Position = UDim2.new(0.952095807, 0, 0, 0)
+		X.Size = UDim2.new(0, 16, 0, 16)
+		X.Font = Enum.Font.SourceSans
+		X.Text = "X"
+		X.TextColor3 = Color3.new(1, 1, 1)
+		X.TextScaled = true
+		X.TextSize = 14
+		X.TextWrapped = true
+	
+		--SCRIPTS
+	
+		local Players = game:GetService("Players")
+		local LocalPlayer = Players.LocalPlayer
+		local plrname = game.Players.LocalPlayer.Name
+	
+		local function RemoveSpaces(String)
+			return String:gsub("%s+", "") or String
+		end
+	
+		local function FindPlayer(String)
+			String = RemoveSpaces(String)
+			for _, _Player in pairs(Players:GetPlayers()) do
+				if _Player.Name:lower():match('^'.. String:lower()) then
+					return _Player
+				end
+			end
+			return nil
+		end
+	
+		Punish.MouseButton1Click:Connect(function()
+			local target = FindPlayer(Box.Text)
+			game.Players:Chat(":control "..target.Name.."")
+			wait(1)
+			game.Players:Chat(":control random")
+			wait(1)
+			game.Players:Chat(":ice me")
+			wait(.5)
+			game.Players:Chat(":control random")
+			wait(1)
+			game.Players:Chat(":freeze me")
+			wait(1)
+			game.Players:Chat(":control random")
+			wait(.5)
+			game.Players:Chat(":ice "..plrname.."")
+			wait(1)
+			game.Players:Chat(":control random")
+			wait(.5)
+			game.Players:Chat(":explode me")
+			wait(1)
+			game.Players:Chat(":control random")
+			wait(1)
+			game.Players:Chat(":unice me")
+		end)
+	
+		SilentCMD.MouseButton1Click:Connect(function()
+			game.Players:Chat(Box.Text)
+			game.Players:Chat(":"..Box.Text.."")
+		end)
+	
+		X.MouseButton1Click:Connect(function()
+			ScreenGui:Destroy()
+		end)
+	
+	end)
+end
+coroutine.wrap(THPZC_fake_script)()
+local function TKGKPP_fake_script() -- KingPiece.LocalScript 
+	local script = Instance.new('LocalScript', KingPiece)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua"))()
+	
+	end)
+end
+coroutine.wrap(TKGKPP_fake_script)()
+local function KACUE_fake_script() -- MyRestaurant.LocalScript 
+	local script = Instance.new('LocalScript', MyRestaurant)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("http://void-scripts.com/Scripts/myRest.lua"))()
+	
+	end)
+end
+coroutine.wrap(KACUE_fake_script)()
+local function EBMLYG_fake_script() -- JailBreak.LocalScript 
+	local script = Instance.new('LocalScript', JailBreak)
+
+	
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Script.lua"))()
+	end)
+end
+coroutine.wrap(EBMLYG_fake_script)()
+local function JJSEXJP_fake_script() -- ScriptHubs.Draggable 
+	local script = Instance.new('LocalScript', ScriptHubs)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(JJSEXJP_fake_script)()
+local function OSBY_fake_script() -- SpeedRun4.LocalScript 
+	local script = Instance.new('LocalScript', SpeedRun4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/SehywdyH"))()
+	end)
+end
+coroutine.wrap(OSBY_fake_script)()
+local function QOSA_fake_script() -- Prisonlife.LocalScript 
+	local script = Instance.new('LocalScript', Prisonlife)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		setclipboard("https://pastebin.com/qjkSmCic")
+		game.StarterGui:SetCore("SendNotification", {Title = "Copyed!", Text = "Copyed! Go To Here."})
+	end)
+end
+coroutine.wrap(QOSA_fake_script)()
+local function GRRV_fake_script() -- Mintct.Draggable 
+	local script = Instance.new('LocalScript', Mintct)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.Parent.MainFrame
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(GRRV_fake_script)()
+local function EGXHWKR_fake_script() -- MainFrame.print 
+	local script = Instance.new('Script', MainFrame)
+
+	print('Loading...')
+	wait(2)
+	print('Auth Checked Enjoy :)')
+end
+coroutine.wrap(EGXHWKR_fake_script)()
+local function TRFUOP_fake_script() -- InfAmmo.LocalScript 
+	local script = Instance.new('LocalScript', InfAmmo)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		local gun = require(game.Players.LocalPlayer.Character:FindFirstChildOfClass('Tool').GunStates)
+		gun.AutoFire = true
+		gun.MaxAmmo = math.huge
+		gun.CurrentAmmo = math.huge
+		gun.ReloadTime = 0
+		gun.FireRate = math.huge
+		gun.Damage = 100
+		gun.Spread = 5
+	end)
+end
+coroutine.wrap(TRFUOP_fake_script)()
+local function OCPDJI_fake_script() -- ScriptHubs2.Draggable 
+	local script = Instance.new('LocalScript', ScriptHubs2)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(OCPDJI_fake_script)()
+local function VADMRJX_fake_script() -- OwlHub.LocalScript 
+	local script = Instance.new('LocalScript', OwlHub)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+	end)
+end
+coroutine.wrap(VADMRJX_fake_script)()
+local function ILOWHFF_fake_script() -- OnlyPanel.Draggable 
+	local script = Instance.new('LocalScript', OnlyPanel)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(ILOWHFF_fake_script)()
+local function BYCI_fake_script() -- Close_2.LocalScript 
+	local script = Instance.new('LocalScript', Close_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.MainFrame.Visible = false
+		game.StarterGui:SetCore("SendNotification", {Title = "Closed", Text = "ROBLOX GUIX IS CLOSED!!"})
+	end)
+end
+coroutine.wrap(BYCI_fake_script)()
