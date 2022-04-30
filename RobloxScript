@@ -1,4 +1,5 @@
 print('Https Required To RobloxGuiX-Beta')
+print('Https Required!')
 -- RobloxGuiX 2.8.8Beta!
 -- Instances:
 
@@ -3263,6 +3264,3 @@ local function BYCI_fake_script() -- Close_2.LocalScript
 end
 
 coroutine.wrap(BYCI_fake_script)()
-print('Https Required!')
-writefile('DarkHubKey.DARKHUB', "DarkGood")
-.Console:Key(new.textbox)
