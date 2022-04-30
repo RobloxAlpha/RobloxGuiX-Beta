@@ -1,6 +1,4 @@
 -- Gui to Lua
-print("Https Required.")
-print("Https Request.")
 -- Version: 3.2
 
 -- Instances:
