@@ -2583,7 +2583,7 @@ local function NOCWB_fake_script() -- Maded.LocalScript
 	local script = Instance.new('LocalScript', Maded)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		game.StarterGui:SetCore("SendNotification", {Title = "Edition Or Script", Text = "Loaded JavaScript, Loaded JavaEdition"})
+		game.StarterGui:SetCore("SendNotification", {Title = "Edition Or Script", Text = "Loaded Classic Edition, Loaded Script})
 		game.StarterGui:SetCore("SendNotification", {Title = "Simple Ui Loaded.", Text = "This is Allowed For All so this is Simple UI Of Once Key if you died for you need get key again."})
 	end)
 end
