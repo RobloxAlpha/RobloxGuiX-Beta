@@ -59,7 +59,7 @@ local Credit = Instance.new("TextButton")
 local UICorner_22 = Instance.new("UICorner")
 local VIPGUI = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
-local Setm = Instance.new("Frame")
+local = Instance.new("Frame")
 local UICorner_24 = Instance.new("UICorner")
 local Here_3 = Instance.new("TextBox")
 local Speed = Instance.new("TextButton")
@@ -1454,7 +1454,7 @@ local function TQRW_fake_script() -- Shutdown.Notification
 			--Properties:
 	
 			DarkGui.Name = "DarkGui"
-			DarkGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			DarkGui.Parent = game.CoreGui
 			DarkGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	
 			DarGui.Name = "DarGui"
@@ -2037,7 +2037,7 @@ local function TQRW_fake_script() -- Shutdown.Notification
 			--Properties:
 	
 			DarkGui.Name = "DarkGui"
-			DarkGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			DarkGui.Parent = game.CoreGui
 			DarkGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	
 			DarGui.Name = "DarGui"
@@ -2618,7 +2618,7 @@ local function QWLBCU_fake_script() -- VIPGUI.LocalScript
 			--Properties:
 	
 			VIPMenu.Name = "VIPMenu"
-			VIPMenu.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			VIPMenu.Parent = game.CoreGui
 			VIPMenu.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	
 			Main.Name = "Main"
@@ -2722,7 +2722,7 @@ local function QWLBCU_fake_script() -- VIPGUI.LocalScript
 			--Properties:
 	
 			VIPMenu.Name = "VIPMenu"
-			VIPMenu.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			VIPMenu.Parent = game.CoreGui
 			VIPMenu.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	
 			Main.Name = "Main"
@@ -3014,7 +3014,7 @@ local function VNFMRE_fake_script() -- CliendFreeadmincommand.LocalScript
 		local Box = Instance.new("TextBox")
 		local X = Instance.new("TextButton")
 	
-		ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+		ScreenGui.Parent = game.CoreGui
 		ScreenGui.ResetOnSpawn = false
 	
 		Main.Name = "Main"
