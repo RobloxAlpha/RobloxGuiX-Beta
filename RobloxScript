@@ -67,47 +67,47 @@ local UICorner_25 = Instance.new("UICorner")
 local JumpPower = Instance.new("TextButton")
 local UICorner_26 = Instance.new("UICorner")
 local text = Instance.new("TextLabel")
-local ScriptHubs = Instance.new("Frame")
-local UICorner_27 = Instance.new("UICorner")
-local Scripttct = Instance.new("TextLabel")
-local UICorner_28 = Instance.new("UICorner")
-local InfiniteYield = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
-local PetSim = Instance.new("TextButton")
-local UICorner_30 = Instance.new("UICorner")
-local EnableReset = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
-local antiafk = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
-local BedWarsVape = Instance.new("TextButton")
-local UICorner_33 = Instance.new("UICorner")
-local CountBlox = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
-local CliendFreeadmincommand = Instance.new("TextButton")
-local UICorner_35 = Instance.new("UICorner")
-local KingPiece = Instance.new("TextButton")
-local UICorner_36 = Instance.new("UICorner")
-local MyRestaurant = Instance.new("TextButton")
-local UICorner_37 = Instance.new("UICorner")
-local JailBreak = Instance.new("TextButton")
-local UICorner_38 = Instance.new("UICorner")
-local SpeedRun4 = Instance.new("TextButton")
-local UICorner_39 = Instance.new("UICorner")
 local Mintct = Instance.new("TextLabel")
-local UICorner_40 = Instance.new("UICorner")
+local UICorner_27 = Instance.new("UICorner")
 local ScriptHubs2 = Instance.new("Frame")
-local UICorner_41 = Instance.new("UICorner")
-local Scripttct_2 = Instance.new("TextLabel")
-local UICorner_42 = Instance.new("UICorner")
+local UICorner_28 = Instance.new("UICorner")
+local Scripttct = Instance.new("TextLabel")
+local UICorner_29 = Instance.new("UICorner")
 local InfAmmo = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
+local UICorner_30 = Instance.new("UICorner")
 local OwlHub = Instance.new("TextButton")
-local UICorner_44 = Instance.new("UICorner")
+local UICorner_31 = Instance.new("UICorner")
 local OnlyPanel = Instance.new("Frame")
-local UICorner_45 = Instance.new("UICorner")
-local Scripttct_3 = Instance.new("TextLabel")
-local UICorner_46 = Instance.new("UICorner")
+local UICorner_32 = Instance.new("UICorner")
+local Scripttct_2 = Instance.new("TextLabel")
+local UICorner_33 = Instance.new("UICorner")
 local Close_2 = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local ScriptHubs = Instance.new("Frame")
+local UICorner_35 = Instance.new("UICorner")
+local Scripttct_3 = Instance.new("TextLabel")
+local UICorner_36 = Instance.new("UICorner")
+local InfiniteYield = Instance.new("TextButton")
+local UICorner_37 = Instance.new("UICorner")
+local PetSim = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local EnableReset = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local antiafk = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local BedWarsVape = Instance.new("TextButton")
+local UICorner_41 = Instance.new("UICorner")
+local CountBlox = Instance.new("TextButton")
+local UICorner_42 = Instance.new("UICorner")
+local CliendFreeadmincommand = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local KingPiece = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local MyRestaurant = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local JailBreak = Instance.new("TextButton")
+local UICorner_46 = Instance.new("UICorner")
+local SpeedRun4 = Instance.new("TextButton")
 local UICorner_47 = Instance.new("UICorner")
 local Panel = Instance.new("Frame")
 local UICorner_48 = Instance.new("UICorner")
@@ -606,183 +606,6 @@ text.TextScaled = true
 text.TextSize = 14.000
 text.TextWrapped = true
 
-ScriptHubs.Name = "ScriptHubs"
-ScriptHubs.Parent = MainFrame
-ScriptHubs.BackgroundColor3 = Color3.fromRGB(5, 134, 255)
-ScriptHubs.Position = UDim2.new(-1.04115224, 0, 0.0123456791, 0)
-ScriptHubs.Size = UDim2.new(0, 457, 0, 552)
-ScriptHubs.Visible = false
-
-UICorner_27.Parent = ScriptHubs
-
-Scripttct.Name = "Scripttct"
-Scripttct.Parent = ScriptHubs
-Scripttct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct.BackgroundTransparency = 1.000
-Scripttct.Size = UDim2.new(0, 457, 0, 66)
-Scripttct.Font = Enum.Font.SourceSans
-Scripttct.Text = "ScriptHubs"
-Scripttct.TextColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct.TextScaled = true
-Scripttct.TextSize = 14.000
-Scripttct.TextWrapped = true
-
-UICorner_28.Parent = Scripttct
-
-InfiniteYield.Name = "Infinite Yield"
-InfiniteYield.Parent = ScriptHubs
-InfiniteYield.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-InfiniteYield.Position = UDim2.new(0.013129103, 0, 0.141304344, 0)
-InfiniteYield.Size = UDim2.new(0, 218, 0, 50)
-InfiniteYield.Font = Enum.Font.SourceSans
-InfiniteYield.Text = "Infinity Yield"
-InfiniteYield.TextColor3 = Color3.fromRGB(90, 90, 90)
-InfiniteYield.TextScaled = true
-InfiniteYield.TextSize = 14.000
-InfiniteYield.TextWrapped = true
-
-UICorner_29.Parent = InfiniteYield
-
-PetSim.Name = "PetSim"
-PetSim.Parent = ScriptHubs
-PetSim.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-PetSim.Position = UDim2.new(0.503282249, 0, 0.141304344, 0)
-PetSim.Size = UDim2.new(0, 218, 0, 50)
-PetSim.Font = Enum.Font.SourceSans
-PetSim.Text = "Pet Simulator X"
-PetSim.TextColor3 = Color3.fromRGB(90, 90, 90)
-PetSim.TextScaled = true
-PetSim.TextSize = 14.000
-PetSim.TextWrapped = true
-
-UICorner_30.Parent = PetSim
-
-EnableReset.Name = "Enable Reset"
-EnableReset.Parent = ScriptHubs
-EnableReset.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-EnableReset.Position = UDim2.new(0.013129103, 0, 0.269927531, 0)
-EnableReset.Size = UDim2.new(0, 218, 0, 50)
-EnableReset.Font = Enum.Font.SourceSans
-EnableReset.Text = "Enable Reset"
-EnableReset.TextColor3 = Color3.fromRGB(90, 90, 90)
-EnableReset.TextScaled = true
-EnableReset.TextSize = 14.000
-EnableReset.TextWrapped = true
-
-UICorner_31.Parent = EnableReset
-
-antiafk.Name = "anti afk"
-antiafk.Parent = ScriptHubs
-antiafk.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-antiafk.Position = UDim2.new(0.503282249, 0, 0.269927531, 0)
-antiafk.Size = UDim2.new(0, 218, 0, 50)
-antiafk.Font = Enum.Font.SourceSans
-antiafk.Text = "Anti-Afk"
-antiafk.TextColor3 = Color3.fromRGB(90, 90, 90)
-antiafk.TextScaled = true
-antiafk.TextSize = 14.000
-antiafk.TextWrapped = true
-
-UICorner_32.Parent = antiafk
-
-BedWarsVape.Name = "BedWars(Vape)"
-BedWarsVape.Parent = ScriptHubs
-BedWarsVape.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-BedWarsVape.Position = UDim2.new(0.013129103, 0, 0.394927531, 0)
-BedWarsVape.Size = UDim2.new(0, 218, 0, 50)
-BedWarsVape.Font = Enum.Font.SourceSans
-BedWarsVape.Text = "BedWars(Vape V4)"
-BedWarsVape.TextColor3 = Color3.fromRGB(90, 90, 90)
-BedWarsVape.TextScaled = true
-BedWarsVape.TextSize = 14.000
-BedWarsVape.TextWrapped = true
-
-UICorner_33.Parent = BedWarsVape
-
-CountBlox.Name = "CountBlox"
-CountBlox.Parent = ScriptHubs
-CountBlox.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-CountBlox.Position = UDim2.new(0.503282249, 0, 0.394927531, 0)
-CountBlox.Size = UDim2.new(0, 218, 0, 50)
-CountBlox.Font = Enum.Font.SourceSans
-CountBlox.Text = "CounterBlox"
-CountBlox.TextColor3 = Color3.fromRGB(90, 90, 90)
-CountBlox.TextScaled = true
-CountBlox.TextSize = 14.000
-CountBlox.TextWrapped = true
-
-UICorner_34.Parent = CountBlox
-
-CliendFreeadmincommand.Name = "Cliend Freeadmin command"
-CliendFreeadmincommand.Parent = ScriptHubs
-CliendFreeadmincommand.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-CliendFreeadmincommand.Position = UDim2.new(0.013129103, 0, 0.509057999, 0)
-CliendFreeadmincommand.Size = UDim2.new(0, 218, 0, 50)
-CliendFreeadmincommand.Font = Enum.Font.SourceSans
-CliendFreeadmincommand.Text = "Client FreeAdmin Command"
-CliendFreeadmincommand.TextColor3 = Color3.fromRGB(90, 90, 90)
-CliendFreeadmincommand.TextScaled = true
-CliendFreeadmincommand.TextSize = 14.000
-CliendFreeadmincommand.TextWrapped = true
-
-UICorner_35.Parent = CliendFreeadmincommand
-
-KingPiece.Name = "King Piece"
-KingPiece.Parent = ScriptHubs
-KingPiece.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-KingPiece.Position = UDim2.new(0.503282309, 0, 0.623188436, 0)
-KingPiece.Size = UDim2.new(0, 218, 0, 50)
-KingPiece.Font = Enum.Font.SourceSans
-KingPiece.Text = "King Piece"
-KingPiece.TextColor3 = Color3.fromRGB(90, 90, 90)
-KingPiece.TextScaled = true
-KingPiece.TextSize = 14.000
-KingPiece.TextWrapped = true
-
-UICorner_36.Parent = KingPiece
-
-MyRestaurant.Name = "My Restaurant"
-MyRestaurant.Parent = ScriptHubs
-MyRestaurant.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-MyRestaurant.Position = UDim2.new(0.503282249, 0, 0.509057999, 0)
-MyRestaurant.Size = UDim2.new(0, 218, 0, 50)
-MyRestaurant.Font = Enum.Font.SourceSans
-MyRestaurant.Text = "My Restaurant"
-MyRestaurant.TextColor3 = Color3.fromRGB(90, 90, 90)
-MyRestaurant.TextScaled = true
-MyRestaurant.TextSize = 14.000
-MyRestaurant.TextWrapped = true
-
-UICorner_37.Parent = MyRestaurant
-
-JailBreak.Name = "Jail Break"
-JailBreak.Parent = ScriptHubs
-JailBreak.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-JailBreak.Position = UDim2.new(0.013129103, 0, 0.623188376, 0)
-JailBreak.Size = UDim2.new(0, 218, 0, 50)
-JailBreak.Font = Enum.Font.SourceSans
-JailBreak.Text = "JailBreak Vynixu GUi"
-JailBreak.TextColor3 = Color3.fromRGB(90, 90, 90)
-JailBreak.TextScaled = true
-JailBreak.TextSize = 14.000
-JailBreak.TextWrapped = true
-
-UICorner_38.Parent = JailBreak
-
-SpeedRun4.Name = "SpeedRun 4"
-SpeedRun4.Parent = ScriptHubs
-SpeedRun4.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
-SpeedRun4.Position = UDim2.new(0.013129103, 0, 0.737318814, 0)
-SpeedRun4.Size = UDim2.new(0, 442, 0, 50)
-SpeedRun4.Font = Enum.Font.SourceSans
-SpeedRun4.Text = "SpeedRun 4"
-SpeedRun4.TextColor3 = Color3.fromRGB(90, 90, 90)
-SpeedRun4.TextScaled = true
-SpeedRun4.TextSize = 14.000
-SpeedRun4.TextWrapped = true
-
-UICorner_39.Parent = SpeedRun4
-
 Mintct.Name = "Mintct"
 Mintct.Parent = MainFrame
 Mintct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -796,7 +619,7 @@ Mintct.TextScaled = true
 Mintct.TextSize = 14.000
 Mintct.TextWrapped = true
 
-UICorner_40.Parent = Mintct
+UICorner_27.Parent = Mintct
 
 ScriptHubs2.Name = "ScriptHubs2"
 ScriptHubs2.Parent = MainFrame
@@ -805,21 +628,21 @@ ScriptHubs2.Position = UDim2.new(-1.04115224, 0, 0.0123456791, 0)
 ScriptHubs2.Size = UDim2.new(0, 457, 0, 552)
 ScriptHubs2.Visible = false
 
-UICorner_41.Parent = ScriptHubs2
+UICorner_28.Parent = ScriptHubs2
 
-Scripttct_2.Name = "Scripttct"
-Scripttct_2.Parent = ScriptHubs2
-Scripttct_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct_2.BackgroundTransparency = 1.000
-Scripttct_2.Size = UDim2.new(0, 457, 0, 66)
-Scripttct_2.Font = Enum.Font.SourceSans
-Scripttct_2.Text = "ScriptHub Page-2"
-Scripttct_2.TextColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct_2.TextScaled = true
-Scripttct_2.TextSize = 14.000
-Scripttct_2.TextWrapped = true
+Scripttct.Name = "Scripttct"
+Scripttct.Parent = ScriptHubs2
+Scripttct.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct.BackgroundTransparency = 1.000
+Scripttct.Size = UDim2.new(0, 457, 0, 66)
+Scripttct.Font = Enum.Font.SourceSans
+Scripttct.Text = "ScriptHub Page-2"
+Scripttct.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct.TextScaled = true
+Scripttct.TextSize = 14.000
+Scripttct.TextWrapped = true
 
-UICorner_42.Parent = Scripttct_2
+UICorner_29.Parent = Scripttct
 
 InfAmmo.Name = "Inf Ammo"
 InfAmmo.Parent = ScriptHubs2
@@ -833,7 +656,7 @@ InfAmmo.TextScaled = true
 InfAmmo.TextSize = 14.000
 InfAmmo.TextWrapped = true
 
-UICorner_43.Parent = InfAmmo
+UICorner_30.Parent = InfAmmo
 
 OwlHub.Name = "OwlHub"
 OwlHub.Parent = ScriptHubs2
@@ -847,7 +670,7 @@ OwlHub.TextScaled = true
 OwlHub.TextSize = 14.000
 OwlHub.TextWrapped = true
 
-UICorner_44.Parent = OwlHub
+UICorner_31.Parent = OwlHub
 
 OnlyPanel.Name = "OnlyPanel"
 OnlyPanel.Parent = MainFrame
@@ -856,21 +679,21 @@ OnlyPanel.Position = UDim2.new(-1.03086412, 0, 0.0123456791, 0)
 OnlyPanel.Size = UDim2.new(0, 457, 0, 552)
 OnlyPanel.Visible = false
 
-UICorner_45.Parent = OnlyPanel
+UICorner_32.Parent = OnlyPanel
 
-Scripttct_3.Name = "Scripttct"
-Scripttct_3.Parent = OnlyPanel
-Scripttct_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct_3.BackgroundTransparency = 1.000
-Scripttct_3.Size = UDim2.new(0, 457, 0, 66)
-Scripttct_3.Font = Enum.Font.SourceSans
-Scripttct_3.Text = "VIP Panel"
-Scripttct_3.TextColor3 = Color3.fromRGB(255, 255, 255)
-Scripttct_3.TextScaled = true
-Scripttct_3.TextSize = 14.000
-Scripttct_3.TextWrapped = true
+Scripttct_2.Name = "Scripttct"
+Scripttct_2.Parent = OnlyPanel
+Scripttct_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_2.BackgroundTransparency = 1.000
+Scripttct_2.Size = UDim2.new(0, 457, 0, 66)
+Scripttct_2.Font = Enum.Font.SourceSans
+Scripttct_2.Text = "VIP Panel"
+Scripttct_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_2.TextScaled = true
+Scripttct_2.TextSize = 14.000
+Scripttct_2.TextWrapped = true
 
-UICorner_46.Parent = Scripttct_3
+UICorner_33.Parent = Scripttct_2
 
 Close_2.Name = "Close"
 Close_2.Parent = MainFrame
@@ -884,7 +707,183 @@ Close_2.TextScaled = true
 Close_2.TextSize = 14.000
 Close_2.TextWrapped = true
 
-UICorner_47.Parent = Close_2
+UICorner_34.Parent = Close_2
+
+ScriptHubs.Name = "ScriptHubs"
+ScriptHubs.Parent = MainFrame
+ScriptHubs.BackgroundColor3 = Color3.fromRGB(5, 134, 255)
+ScriptHubs.Position = UDim2.new(-1.04115224, 0, 0.0123456791, 0)
+ScriptHubs.Size = UDim2.new(0, 457, 0, 552)
+
+UICorner_35.Parent = ScriptHubs
+
+Scripttct_3.Name = "Scripttct"
+Scripttct_3.Parent = ScriptHubs
+Scripttct_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_3.BackgroundTransparency = 1.000
+Scripttct_3.Size = UDim2.new(0, 457, 0, 66)
+Scripttct_3.Font = Enum.Font.SourceSans
+Scripttct_3.Text = "ScriptHubs"
+Scripttct_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Scripttct_3.TextScaled = true
+Scripttct_3.TextSize = 14.000
+Scripttct_3.TextWrapped = true
+
+UICorner_36.Parent = Scripttct_3
+
+InfiniteYield.Name = "Infinite Yield"
+InfiniteYield.Parent = ScriptHubs
+InfiniteYield.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+InfiniteYield.Position = UDim2.new(0.013129103, 0, 0.141304344, 0)
+InfiniteYield.Size = UDim2.new(0, 218, 0, 50)
+InfiniteYield.Font = Enum.Font.SourceSans
+InfiniteYield.Text = "Infinity Yield"
+InfiniteYield.TextColor3 = Color3.fromRGB(90, 90, 90)
+InfiniteYield.TextScaled = true
+InfiniteYield.TextSize = 14.000
+InfiniteYield.TextWrapped = true
+
+UICorner_37.Parent = InfiniteYield
+
+PetSim.Name = "PetSim"
+PetSim.Parent = ScriptHubs
+PetSim.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+PetSim.Position = UDim2.new(0.503282249, 0, 0.141304344, 0)
+PetSim.Size = UDim2.new(0, 218, 0, 50)
+PetSim.Font = Enum.Font.SourceSans
+PetSim.Text = "Pet Simulator X"
+PetSim.TextColor3 = Color3.fromRGB(90, 90, 90)
+PetSim.TextScaled = true
+PetSim.TextSize = 14.000
+PetSim.TextWrapped = true
+
+UICorner_38.Parent = PetSim
+
+EnableReset.Name = "Enable Reset"
+EnableReset.Parent = ScriptHubs
+EnableReset.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+EnableReset.Position = UDim2.new(0.013129103, 0, 0.269927531, 0)
+EnableReset.Size = UDim2.new(0, 218, 0, 50)
+EnableReset.Font = Enum.Font.SourceSans
+EnableReset.Text = "Enable Reset"
+EnableReset.TextColor3 = Color3.fromRGB(90, 90, 90)
+EnableReset.TextScaled = true
+EnableReset.TextSize = 14.000
+EnableReset.TextWrapped = true
+
+UICorner_39.Parent = EnableReset
+
+antiafk.Name = "anti afk"
+antiafk.Parent = ScriptHubs
+antiafk.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+antiafk.Position = UDim2.new(0.503282249, 0, 0.269927531, 0)
+antiafk.Size = UDim2.new(0, 218, 0, 50)
+antiafk.Font = Enum.Font.SourceSans
+antiafk.Text = "Anti-Afk"
+antiafk.TextColor3 = Color3.fromRGB(90, 90, 90)
+antiafk.TextScaled = true
+antiafk.TextSize = 14.000
+antiafk.TextWrapped = true
+
+UICorner_40.Parent = antiafk
+
+BedWarsVape.Name = "BedWars(Vape)"
+BedWarsVape.Parent = ScriptHubs
+BedWarsVape.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+BedWarsVape.Position = UDim2.new(0.013129103, 0, 0.394927531, 0)
+BedWarsVape.Size = UDim2.new(0, 218, 0, 50)
+BedWarsVape.Font = Enum.Font.SourceSans
+BedWarsVape.Text = "BedWars(Vape V4)"
+BedWarsVape.TextColor3 = Color3.fromRGB(90, 90, 90)
+BedWarsVape.TextScaled = true
+BedWarsVape.TextSize = 14.000
+BedWarsVape.TextWrapped = true
+
+UICorner_41.Parent = BedWarsVape
+
+CountBlox.Name = "CountBlox"
+CountBlox.Parent = ScriptHubs
+CountBlox.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+CountBlox.Position = UDim2.new(0.503282249, 0, 0.394927531, 0)
+CountBlox.Size = UDim2.new(0, 218, 0, 50)
+CountBlox.Font = Enum.Font.SourceSans
+CountBlox.Text = "CounterBlox"
+CountBlox.TextColor3 = Color3.fromRGB(90, 90, 90)
+CountBlox.TextScaled = true
+CountBlox.TextSize = 14.000
+CountBlox.TextWrapped = true
+
+UICorner_42.Parent = CountBlox
+
+CliendFreeadmincommand.Name = "Cliend Freeadmin command"
+CliendFreeadmincommand.Parent = ScriptHubs
+CliendFreeadmincommand.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+CliendFreeadmincommand.Position = UDim2.new(0.013129103, 0, 0.509057999, 0)
+CliendFreeadmincommand.Size = UDim2.new(0, 218, 0, 50)
+CliendFreeadmincommand.Font = Enum.Font.SourceSans
+CliendFreeadmincommand.Text = "Client FreeAdmin Command"
+CliendFreeadmincommand.TextColor3 = Color3.fromRGB(90, 90, 90)
+CliendFreeadmincommand.TextScaled = true
+CliendFreeadmincommand.TextSize = 14.000
+CliendFreeadmincommand.TextWrapped = true
+
+UICorner_43.Parent = CliendFreeadmincommand
+
+KingPiece.Name = "King Piece"
+KingPiece.Parent = ScriptHubs
+KingPiece.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+KingPiece.Position = UDim2.new(0.503282309, 0, 0.623188436, 0)
+KingPiece.Size = UDim2.new(0, 218, 0, 50)
+KingPiece.Font = Enum.Font.SourceSans
+KingPiece.Text = "King Piece"
+KingPiece.TextColor3 = Color3.fromRGB(90, 90, 90)
+KingPiece.TextScaled = true
+KingPiece.TextSize = 14.000
+KingPiece.TextWrapped = true
+
+UICorner_44.Parent = KingPiece
+
+MyRestaurant.Name = "My Restaurant"
+MyRestaurant.Parent = ScriptHubs
+MyRestaurant.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+MyRestaurant.Position = UDim2.new(0.503282249, 0, 0.509057999, 0)
+MyRestaurant.Size = UDim2.new(0, 218, 0, 50)
+MyRestaurant.Font = Enum.Font.SourceSans
+MyRestaurant.Text = "My Restaurant"
+MyRestaurant.TextColor3 = Color3.fromRGB(90, 90, 90)
+MyRestaurant.TextScaled = true
+MyRestaurant.TextSize = 14.000
+MyRestaurant.TextWrapped = true
+
+UICorner_45.Parent = MyRestaurant
+
+JailBreak.Name = "Jail Break"
+JailBreak.Parent = ScriptHubs
+JailBreak.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+JailBreak.Position = UDim2.new(0.013129103, 0, 0.623188376, 0)
+JailBreak.Size = UDim2.new(0, 218, 0, 50)
+JailBreak.Font = Enum.Font.SourceSans
+JailBreak.Text = "JailBreak Vynixu GUi"
+JailBreak.TextColor3 = Color3.fromRGB(90, 90, 90)
+JailBreak.TextScaled = true
+JailBreak.TextSize = 14.000
+JailBreak.TextWrapped = true
+
+UICorner_46.Parent = JailBreak
+
+SpeedRun4.Name = "SpeedRun 4"
+SpeedRun4.Parent = ScriptHubs
+SpeedRun4.BackgroundColor3 = Color3.fromRGB(1, 255, 94)
+SpeedRun4.Position = UDim2.new(0.013129103, 0, 0.737318814, 0)
+SpeedRun4.Size = UDim2.new(0, 442, 0, 50)
+SpeedRun4.Font = Enum.Font.SourceSans
+SpeedRun4.Text = "SpeedRun 4"
+SpeedRun4.TextColor3 = Color3.fromRGB(90, 90, 90)
+SpeedRun4.TextScaled = true
+SpeedRun4.TextSize = 14.000
+SpeedRun4.TextWrapped = true
+
+UICorner_47.Parent = SpeedRun4
 
 Panel.Name = "Panel"
 Panel.Parent = MainClassicEdition
@@ -985,7 +984,7 @@ UICorner_53.Parent = inside
 
 -- Scripts:
 
-local function ZVCPZTM_fake_script() -- MainClassicEdition.ToggleKey 
+local function ATTV_fake_script() -- MainClassicEdition.ToggleKey 
 	local script = Instance.new('LocalScript', MainClassicEdition)
 
 	local MainFrame = script.Parent.MainFrame
@@ -1008,8 +1007,8 @@ local function ZVCPZTM_fake_script() -- MainClassicEdition.ToggleKey
 		end
 	end)
 end
-coroutine.wrap(ZVCPZTM_fake_script)()
-local function AYBLT_fake_script() -- MainClassicEdition.Health Refence 
+coroutine.wrap(ATTV_fake_script)()
+local function MLRD_fake_script() -- MainClassicEdition.Health Refence 
 	local script = Instance.new('LocalScript', MainClassicEdition)
 
 	local plr = game.Players.LocalPlayer
@@ -1027,8 +1026,8 @@ local function AYBLT_fake_script() -- MainClassicEdition.Health Refence
 		end
 	end
 end
-coroutine.wrap(AYBLT_fake_script)()
-local function ECUXLUN_fake_script() -- CheckKey.LocalScript 
+coroutine.wrap(MLRD_fake_script)()
+local function LJWOMO_fake_script() -- CheckKey.LocalScript 
 	local script = Instance.new('LocalScript', CheckKey)
 
 	local box = script.Parent.Parent.box
@@ -1049,8 +1048,8 @@ local function ECUXLUN_fake_script() -- CheckKey.LocalScript
 		end
 	end)
 end
-coroutine.wrap(ECUXLUN_fake_script)()
-local function JIOON_fake_script() -- KeySystem.Draggable 
+coroutine.wrap(LJWOMO_fake_script)()
+local function ANNTBA_fake_script() -- KeySystem.Draggable 
 	local script = Instance.new('LocalScript', KeySystem)
 
 	local UIS = game:GetService('UserInputService')
@@ -1089,8 +1088,8 @@ local function JIOON_fake_script() -- KeySystem.Draggable
 	end)
 	
 end
-coroutine.wrap(JIOON_fake_script)()
-local function OSYX_fake_script() -- HasAccount.LocalScript 
+coroutine.wrap(ANNTBA_fake_script)()
+local function QYJMC_fake_script() -- HasAccount.LocalScript 
 	local script = Instance.new('LocalScript', HasAccount)
 
 	local gui = script.Parent.Parent.Parent.Account
@@ -1106,8 +1105,8 @@ local function OSYX_fake_script() -- HasAccount.LocalScript
 		end
 	end)
 end
-coroutine.wrap(OSYX_fake_script)()
-local function WLSPCAO_fake_script() -- GetKey.LocalScript 
+coroutine.wrap(QYJMC_fake_script)()
+local function WEFZZ_fake_script() -- GetKey.LocalScript 
 	local script = Instance.new('LocalScript', GetKey)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1115,8 +1114,8 @@ local function WLSPCAO_fake_script() -- GetKey.LocalScript
 		script.Parent.Parent.Parent.KeySystem.Visible = false
 	end)
 end
-coroutine.wrap(WLSPCAO_fake_script)()
-local function VUJMEAO_fake_script() -- Bypass.LocalScript 
+coroutine.wrap(WEFZZ_fake_script)()
+local function IENIUZC_fake_script() -- Bypass.LocalScript 
 	local script = Instance.new('LocalScript', Bypass)
 
 	local plr  = game.Players.LocalPlayer
@@ -1139,16 +1138,16 @@ local function VUJMEAO_fake_script() -- Bypass.LocalScript
 		end
 	end)
 end
-coroutine.wrap(VUJMEAO_fake_script)()
-local function LOGNT_fake_script() -- close.LocalScript 
+coroutine.wrap(IENIUZC_fake_script)()
+local function DTUG_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.KeySystem.Visible = false
 	end)
 end
-coroutine.wrap(LOGNT_fake_script)()
-local function LGVE_fake_script() -- Login.LocalScript 
+coroutine.wrap(DTUG_fake_script)()
+local function KLVB_fake_script() -- Login.LocalScript 
 	local script = Instance.new('LocalScript', Login)
 
 	local plr = game.Players.LocalPlayer
@@ -1171,8 +1170,8 @@ local function LGVE_fake_script() -- Login.LocalScript
 		end
 	end)
 end
-coroutine.wrap(LGVE_fake_script)()
-local function KVLTPU_fake_script() -- Account.Draggable 
+coroutine.wrap(KLVB_fake_script)()
+local function DXOI_fake_script() -- Account.Draggable 
 	local script = Instance.new('LocalScript', Account)
 
 	local UIS = game:GetService('UserInputService')
@@ -1211,8 +1210,8 @@ local function KVLTPU_fake_script() -- Account.Draggable
 	end)
 	
 end
-coroutine.wrap(KVLTPU_fake_script)()
-local function MOEYPQ_fake_script() -- Start.LocalScript 
+coroutine.wrap(DXOI_fake_script)()
+local function FDLGAD_fake_script() -- Start.LocalScript 
 	local script = Instance.new('LocalScript', Start)
 
 	local tex = script.Parent.Parent.Started
@@ -1231,8 +1230,8 @@ local function MOEYPQ_fake_script() -- Start.LocalScript
 		script.Parent.Parent.Copy.Visible = true
 	end)
 end
-coroutine.wrap(MOEYPQ_fake_script)()
-local function DDCJ_fake_script() -- GetKey_2.Draggable 
+coroutine.wrap(FDLGAD_fake_script)()
+local function RVMRFI_fake_script() -- GetKey_2.Draggable 
 	local script = Instance.new('LocalScript', GetKey_2)
 
 	local UIS = game:GetService('UserInputService')
@@ -1271,8 +1270,8 @@ local function DDCJ_fake_script() -- GetKey_2.Draggable
 	end)
 	
 end
-coroutine.wrap(DDCJ_fake_script)()
-local function CIMTXF_fake_script() -- Close.LocalScript 
+coroutine.wrap(RVMRFI_fake_script)()
+local function GTZSJWY_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1280,8 +1279,8 @@ local function CIMTXF_fake_script() -- Close.LocalScript
 		script.Parent.Parent.Parent.GetKey.Visible = false
 	end)
 end
-coroutine.wrap(CIMTXF_fake_script)()
-local function ACHG_fake_script() -- Copy.LocalScript 
+coroutine.wrap(GTZSJWY_fake_script)()
+local function VMVVSLB_fake_script() -- Copy.LocalScript 
 	local script = Instance.new('LocalScript', Copy)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1289,8 +1288,8 @@ local function ACHG_fake_script() -- Copy.LocalScript
 		game.StarterGui:SetCore("SendNotification", {Title = "Copyed!", Text = "Copyed To ClipBoard!"})
 	end)
 end
-coroutine.wrap(ACHG_fake_script)()
-local function RQXJX_fake_script() -- check.LocalScript 
+coroutine.wrap(VMVVSLB_fake_script)()
+local function DJDHU_fake_script() -- check.LocalScript 
 	local script = Instance.new('LocalScript', check)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1308,8 +1307,8 @@ local function RQXJX_fake_script() -- check.LocalScript
 		end
 	end)
 end
-coroutine.wrap(RQXJX_fake_script)()
-local function EJOMJFP_fake_script() -- Verify.Draggable 
+coroutine.wrap(DJDHU_fake_script)()
+local function RSIW_fake_script() -- Verify.Draggable 
 	local script = Instance.new('LocalScript', Verify)
 
 	local UIS = game:GetService('UserInputService')
@@ -1348,14 +1347,14 @@ local function EJOMJFP_fake_script() -- Verify.Draggable
 	end)
 	
 end
-coroutine.wrap(EJOMJFP_fake_script)()
-local function LNCJZXY_fake_script() -- Coded.LocalScript 
+coroutine.wrap(RSIW_fake_script)()
+local function DPMVK_fake_script() -- Coded.LocalScript 
 	local script = Instance.new('LocalScript', Coded)
 
 	script.Parent.Text = math.random(1000, 990000)
 end
-coroutine.wrap(LNCJZXY_fake_script)()
-local function ZDGO_fake_script() -- WalkSpeed.LocalScript 
+coroutine.wrap(DPMVK_fake_script)()
+local function OBRCHS_fake_script() -- WalkSpeed.LocalScript 
 	local script = Instance.new('LocalScript', WalkSpeed)
 
 	local gui = script.Parent.Parent.Setm
@@ -1369,8 +1368,8 @@ local function ZDGO_fake_script() -- WalkSpeed.LocalScript
 		end
 	end)
 end
-coroutine.wrap(ZDGO_fake_script)()
-local function GPYNLNB_fake_script() -- ScriptHub.LocalScript 
+coroutine.wrap(OBRCHS_fake_script)()
+local function YFCTDIY_fake_script() -- ScriptHub.LocalScript 
 	local script = Instance.new('LocalScript', ScriptHub)
 
 	local gui = script.Parent.Parent.ScriptHubs
@@ -1387,8 +1386,8 @@ local function GPYNLNB_fake_script() -- ScriptHub.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GPYNLNB_fake_script)()
-local function OBZGN_fake_script() -- ScriptHub2.LocalScript 
+coroutine.wrap(YFCTDIY_fake_script)()
+local function VNJH_fake_script() -- ScriptHub2.LocalScript 
 	local script = Instance.new('LocalScript', ScriptHub2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1400,8 +1399,8 @@ local function OBZGN_fake_script() -- ScriptHub2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(OBZGN_fake_script)()
-local function ICPJCQZ_fake_script() -- Shutdown.Notification 
+coroutine.wrap(VNJH_fake_script)()
+local function ABXAOX_fake_script() -- Shutdown.Notification 
 	local script = Instance.new('LocalScript', Shutdown)
 
 	local plr = game.Players.LocalPlayer
@@ -2578,8 +2577,8 @@ local function ICPJCQZ_fake_script() -- Shutdown.Notification
 		end
 	end)
 end
-coroutine.wrap(ICPJCQZ_fake_script)()
-local function IUKMY_fake_script() -- Maded.LocalScript 
+coroutine.wrap(ABXAOX_fake_script)()
+local function RBTWRQ_fake_script() -- Maded.LocalScript 
 	local script = Instance.new('LocalScript', Maded)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2587,16 +2586,16 @@ local function IUKMY_fake_script() -- Maded.LocalScript
 		game.StarterGui:SetCore("SendNotification", {Title = "Simple Ui Loaded.", Text = "This is Allowed For All so this is Simple UI Of Once Key if you died for you need get key again."})
 	end)
 end
-coroutine.wrap(IUKMY_fake_script)()
-local function XOYUZS_fake_script() -- Credit.LocalScript 
+coroutine.wrap(RBTWRQ_fake_script)()
+local function TREKMN_fake_script() -- Credit.LocalScript 
 	local script = Instance.new('LocalScript', Credit)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		game.StarterGui:SetCore("SendNotification", {Title = "Credits!", Text = "Discord : RobloxAlpha#4338"})
 	end)
 end
-coroutine.wrap(XOYUZS_fake_script)()
-local function PYGUE_fake_script() -- VIPGUI.LocalScript 
+coroutine.wrap(TREKMN_fake_script)()
+local function HTQN_fake_script() -- VIPGUI.LocalScript 
 	local script = Instance.new('LocalScript', VIPGUI)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2815,8 +2814,8 @@ local function PYGUE_fake_script() -- VIPGUI.LocalScript
 		end
 	end)
 end
-coroutine.wrap(PYGUE_fake_script)()
-local function TROKE_fake_script() -- Speed.LocalScript 
+coroutine.wrap(HTQN_fake_script)()
+local function SWDTFPJ_fake_script() -- Speed.LocalScript 
 	local script = Instance.new('LocalScript', Speed)
 
 	local plr = game.Players.LocalPlayer
@@ -2829,8 +2828,8 @@ local function TROKE_fake_script() -- Speed.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TROKE_fake_script)()
-local function RAGMH_fake_script() -- JumpPower.LocalScript 
+coroutine.wrap(SWDTFPJ_fake_script)()
+local function ABEHO_fake_script() -- JumpPower.LocalScript 
 	local script = Instance.new('LocalScript', JumpPower)
 
 	local box = script.Parent.Parent.Here
@@ -2840,8 +2839,8 @@ local function RAGMH_fake_script() -- JumpPower.LocalScript
 		plr.Character:WaitForChild("Humanoid").JumpPower = plr.Character:WaitForChild("Humanoid").JumpPower + box.Text
 	end)
 end
-coroutine.wrap(RAGMH_fake_script)()
-local function UYTBX_fake_script() -- Setm.Draggable 
+coroutine.wrap(ABEHO_fake_script)()
+local function YAYTAV_fake_script() -- Setm.Draggable 
 	local script = Instance.new('LocalScript', Setm)
 
 	local UIS = game:GetService('UserInputService')
@@ -2880,8 +2879,8 @@ local function UYTBX_fake_script() -- Setm.Draggable
 	end)
 	
 end
-coroutine.wrap(UYTBX_fake_script)()
-local function YWPFLNU_fake_script() -- MainFrame.Draggable 
+coroutine.wrap(YAYTAV_fake_script)()
+local function RAWR_fake_script() -- MainFrame.Draggable 
 	local script = Instance.new('LocalScript', MainFrame)
 
 	local UIS = game:GetService('UserInputService')
@@ -2920,8 +2919,168 @@ local function YWPFLNU_fake_script() -- MainFrame.Draggable
 	end)
 	
 end
-coroutine.wrap(YWPFLNU_fake_script)()
-local function LJIRLY_fake_script() -- InfiniteYield.LocalScript 
+coroutine.wrap(RAWR_fake_script)()
+local function MVTB_fake_script() -- Mintct.Draggable 
+	local script = Instance.new('LocalScript', Mintct)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent.Parent.Parent.MainFrame
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(MVTB_fake_script)()
+local function ZOBP_fake_script() -- MainFrame.print 
+	local script = Instance.new('Script', MainFrame)
+
+	print('Loading...')
+	wait(2)
+	print('Auth Checked Enjoy :)')
+end
+coroutine.wrap(ZOBP_fake_script)()
+local function YEIZMLN_fake_script() -- InfAmmo.LocalScript 
+	local script = Instance.new('LocalScript', InfAmmo)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		local gun = require(game.Players.LocalPlayer.Character:FindFirstChildOfClass('Tool').GunStates)
+		gun.AutoFire = true
+		gun.MaxAmmo = math.huge
+		gun.CurrentAmmo = math.huge
+		gun.ReloadTime = 0
+		gun.FireRate = math.huge
+		gun.Damage = 100
+		gun.Spread = 5
+	end)
+end
+coroutine.wrap(YEIZMLN_fake_script)()
+local function QBKRW_fake_script() -- ScriptHubs2.Draggable 
+	local script = Instance.new('LocalScript', ScriptHubs2)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(QBKRW_fake_script)()
+local function OLDD_fake_script() -- OwlHub.LocalScript 
+	local script = Instance.new('LocalScript', OwlHub)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+	end)
+end
+coroutine.wrap(OLDD_fake_script)()
+local function GWVTAKL_fake_script() -- OnlyPanel.Draggable 
+	local script = Instance.new('LocalScript', OnlyPanel)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+	
+end
+coroutine.wrap(GWVTAKL_fake_script)()
+local function NWCMJCD_fake_script() -- Close_2.LocalScript 
+	local script = Instance.new('LocalScript', Close_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.MainFrame.Visible = false
+		game.StarterGui:SetCore("SendNotification", {Title = "Closed", Text = "ROBLOX GUIX IS CLOSED!!"})
+	end)
+end
+coroutine.wrap(NWCMJCD_fake_script)()
+local function QNZFY_fake_script() -- InfiniteYield.LocalScript 
 	local script = Instance.new('LocalScript', InfiniteYield)
 
 	
@@ -2930,16 +3089,16 @@ local function LJIRLY_fake_script() -- InfiniteYield.LocalScript
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 	end)
 end
-coroutine.wrap(LJIRLY_fake_script)()
-local function TFTYRTC_fake_script() -- PetSim.LocalScript 
+coroutine.wrap(QNZFY_fake_script)()
+local function TYWKYRH_fake_script() -- PetSim.LocalScript 
 	local script = Instance.new('LocalScript', PetSim)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/HugeCatsObfuscated.lua",true))()
 	end)
 end
-coroutine.wrap(TFTYRTC_fake_script)()
-local function VLFHVSD_fake_script() -- EnableReset.LocalScript 
+coroutine.wrap(TYWKYRH_fake_script)()
+local function AMUJKMY_fake_script() -- EnableReset.LocalScript 
 	local script = Instance.new('LocalScript', EnableReset)
 
 	--[[
@@ -2957,8 +3116,8 @@ local function VLFHVSD_fake_script() -- EnableReset.LocalScript
 	end
 	
 end
-coroutine.wrap(VLFHVSD_fake_script)()
-local function GYHGV_fake_script() -- antiafk.LocalScript 
+coroutine.wrap(AMUJKMY_fake_script)()
+local function OEDHSR_fake_script() -- antiafk.LocalScript 
 	local script = Instance.new('LocalScript', antiafk)
 
 	
@@ -2972,8 +3131,8 @@ local function GYHGV_fake_script() -- antiafk.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(GYHGV_fake_script)()
-local function EDNJTV_fake_script() -- BedWarsVape.LocalScript 
+coroutine.wrap(OEDHSR_fake_script)()
+local function BNMSHP_fake_script() -- BedWarsVape.LocalScript 
 	local script = Instance.new('LocalScript', BedWarsVape)
 
 	
@@ -2982,8 +3141,8 @@ local function EDNJTV_fake_script() -- BedWarsVape.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 	end)
 end
-coroutine.wrap(EDNJTV_fake_script)()
-local function RJPW_fake_script() -- CountBlox.LocalScript 
+coroutine.wrap(BNMSHP_fake_script)()
+local function DYBEGD_fake_script() -- CountBlox.LocalScript 
 	local script = Instance.new('LocalScript', CountBlox)
 
 	
@@ -2992,8 +3151,8 @@ local function RJPW_fake_script() -- CountBlox.LocalScript
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/venosu/Hex-Hub/main/hexhub.lua'))()
 	end)
 end
-coroutine.wrap(RJPW_fake_script)()
-local function YXAP_fake_script() -- CliendFreeadmincommand.LocalScript 
+coroutine.wrap(DYBEGD_fake_script)()
+local function SOGU_fake_script() -- CliendFreeadmincommand.LocalScript 
 	local script = Instance.new('LocalScript', CliendFreeadmincommand)
 
 	
@@ -3136,8 +3295,8 @@ local function YXAP_fake_script() -- CliendFreeadmincommand.LocalScript
 	
 	end)
 end
-coroutine.wrap(YXAP_fake_script)()
-local function XUKK_fake_script() -- KingPiece.LocalScript 
+coroutine.wrap(SOGU_fake_script)()
+local function MSEKIS_fake_script() -- KingPiece.LocalScript 
 	local script = Instance.new('LocalScript', KingPiece)
 
 	
@@ -3147,8 +3306,8 @@ local function XUKK_fake_script() -- KingPiece.LocalScript
 	
 	end)
 end
-coroutine.wrap(XUKK_fake_script)()
-local function TZDQ_fake_script() -- MyRestaurant.LocalScript 
+coroutine.wrap(MSEKIS_fake_script)()
+local function ZBCV_fake_script() -- MyRestaurant.LocalScript 
 	local script = Instance.new('LocalScript', MyRestaurant)
 
 	
@@ -3158,8 +3317,8 @@ local function TZDQ_fake_script() -- MyRestaurant.LocalScript
 	
 	end)
 end
-coroutine.wrap(TZDQ_fake_script)()
-local function YTYHYW_fake_script() -- JailBreak.LocalScript 
+coroutine.wrap(ZBCV_fake_script)()
+local function GHUP_fake_script() -- JailBreak.LocalScript 
 	local script = Instance.new('LocalScript', JailBreak)
 
 	
@@ -3168,8 +3327,8 @@ local function YTYHYW_fake_script() -- JailBreak.LocalScript
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Script.lua"))()
 	end)
 end
-coroutine.wrap(YTYHYW_fake_script)()
-local function XWTDDAB_fake_script() -- ScriptHubs.Draggable 
+coroutine.wrap(GHUP_fake_script)()
+local function PVSO_fake_script() -- ScriptHubs.Draggable 
 	local script = Instance.new('LocalScript', ScriptHubs)
 
 	local UIS = game:GetService('UserInputService')
@@ -3208,176 +3367,16 @@ local function XWTDDAB_fake_script() -- ScriptHubs.Draggable
 	end)
 	
 end
-coroutine.wrap(XWTDDAB_fake_script)()
-local function KJTELO_fake_script() -- SpeedRun4.LocalScript 
+coroutine.wrap(PVSO_fake_script)()
+local function HLQHWM_fake_script() -- SpeedRun4.LocalScript 
 	local script = Instance.new('LocalScript', SpeedRun4)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://pastebin.com/raw/SehywdyH"))()
 	end)
 end
-coroutine.wrap(KJTELO_fake_script)()
-local function GLDV_fake_script() -- Mintct.Draggable 
-	local script = Instance.new('LocalScript', Mintct)
-
-	local UIS = game:GetService('UserInputService')
-	local frame = script.Parent.Parent.Parent.MainFrame
-	local dragToggle = nil
-	local dragSpeed = 0.25
-	local dragStart = nil
-	local startPos = nil
-	
-	local function updateInput(input)
-		local delta = input.Position - dragStart
-		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
-			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
-		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
-	end
-	
-	frame.InputBegan:Connect(function(input)
-		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
-			dragToggle = true
-			dragStart = input.Position
-			startPos = frame.Position
-			input.Changed:Connect(function()
-				if input.UserInputState == Enum.UserInputState.End then
-					dragToggle = false
-				end
-			end)
-		end
-	end)
-	
-	UIS.InputChanged:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
-			if dragToggle then
-				updateInput(input)
-			end
-		end
-	end)
-	
-end
-coroutine.wrap(GLDV_fake_script)()
-local function BGTWD_fake_script() -- MainFrame.print 
-	local script = Instance.new('Script', MainFrame)
-
-	print('Loading...')
-	wait(2)
-	print('Auth Checked Enjoy :)')
-end
-coroutine.wrap(BGTWD_fake_script)()
-local function SNEGVCT_fake_script() -- InfAmmo.LocalScript 
-	local script = Instance.new('LocalScript', InfAmmo)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		local gun = require(game.Players.LocalPlayer.Character:FindFirstChildOfClass('Tool').GunStates)
-		gun.AutoFire = true
-		gun.MaxAmmo = math.huge
-		gun.CurrentAmmo = math.huge
-		gun.ReloadTime = 0
-		gun.FireRate = math.huge
-		gun.Damage = 100
-		gun.Spread = 5
-	end)
-end
-coroutine.wrap(SNEGVCT_fake_script)()
-local function GKAX_fake_script() -- ScriptHubs2.Draggable 
-	local script = Instance.new('LocalScript', ScriptHubs2)
-
-	local UIS = game:GetService('UserInputService')
-	local frame = script.Parent
-	local dragToggle = nil
-	local dragSpeed = 0.25
-	local dragStart = nil
-	local startPos = nil
-	
-	local function updateInput(input)
-		local delta = input.Position - dragStart
-		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
-			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
-		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
-	end
-	
-	frame.InputBegan:Connect(function(input)
-		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
-			dragToggle = true
-			dragStart = input.Position
-			startPos = frame.Position
-			input.Changed:Connect(function()
-				if input.UserInputState == Enum.UserInputState.End then
-					dragToggle = false
-				end
-			end)
-		end
-	end)
-	
-	UIS.InputChanged:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
-			if dragToggle then
-				updateInput(input)
-			end
-		end
-	end)
-	
-end
-coroutine.wrap(GKAX_fake_script)()
-local function XXUFEA_fake_script() -- OwlHub.LocalScript 
-	local script = Instance.new('LocalScript', OwlHub)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
-	end)
-end
-coroutine.wrap(XXUFEA_fake_script)()
-local function TZQWVNG_fake_script() -- OnlyPanel.Draggable 
-	local script = Instance.new('LocalScript', OnlyPanel)
-
-	local UIS = game:GetService('UserInputService')
-	local frame = script.Parent
-	local dragToggle = nil
-	local dragSpeed = 0.25
-	local dragStart = nil
-	local startPos = nil
-	
-	local function updateInput(input)
-		local delta = input.Position - dragStart
-		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
-			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
-		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
-	end
-	
-	frame.InputBegan:Connect(function(input)
-		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
-			dragToggle = true
-			dragStart = input.Position
-			startPos = frame.Position
-			input.Changed:Connect(function()
-				if input.UserInputState == Enum.UserInputState.End then
-					dragToggle = false
-				end
-			end)
-		end
-	end)
-	
-	UIS.InputChanged:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
-			if dragToggle then
-				updateInput(input)
-			end
-		end
-	end)
-	
-end
-coroutine.wrap(TZQWVNG_fake_script)()
-local function LLHNYJG_fake_script() -- Close_2.LocalScript 
-	local script = Instance.new('LocalScript', Close_2)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		script.Parent.Parent.Parent.MainFrame.Visible = false
-		game.StarterGui:SetCore("SendNotification", {Title = "Closed", Text = "ROBLOX GUIX IS CLOSED!!"})
-	end)
-end
-coroutine.wrap(LLHNYJG_fake_script)()
-local function FZORYP_fake_script() -- Execute.LocalScript 
+coroutine.wrap(HLQHWM_fake_script)()
+local function TWXNP_fake_script() -- Execute.LocalScript 
 	local script = Instance.new('LocalScript', Execute)
 
 	local plr = game.Players.LocalPlayer
@@ -3388,8 +3387,8 @@ local function FZORYP_fake_script() -- Execute.LocalScript
 		plr:Kick(" // Reason:"..script.Parent.Parent.Here.Text.." // by "..plr.Name)
 	end)
 end
-coroutine.wrap(FZORYP_fake_script)()
-local function KHCPM_fake_script() -- Panel.LocalScript 
+coroutine.wrap(TWXNP_fake_script)()
+local function FRKOZ_fake_script() -- Panel.LocalScript 
 	local script = Instance.new('LocalScript', Panel)
 
 	local UIS = game:GetService('UserInputService')
@@ -3428,8 +3427,8 @@ local function KHCPM_fake_script() -- Panel.LocalScript
 	end)
 	
 end
-coroutine.wrap(KHCPM_fake_script)()
-local function OFODB_fake_script() -- Loading.Draggable 
+coroutine.wrap(FRKOZ_fake_script)()
+local function TGKEGV_fake_script() -- Loading.Draggable 
 	local script = Instance.new('LocalScript', Loading)
 
 	local UIS = game:GetService('UserInputService')
@@ -3468,8 +3467,8 @@ local function OFODB_fake_script() -- Loading.Draggable
 	end)
 	
 end
-coroutine.wrap(OFODB_fake_script)()
-local function RZUN_fake_script() -- tct.LocalScript 
+coroutine.wrap(TGKEGV_fake_script)()
+local function BMBUAOU_fake_script() -- tct.LocalScript 
 	local script = Instance.new('LocalScript', tct)
 
 	script.Parent.Text = "Loading..."
@@ -3491,8 +3490,8 @@ local function RZUN_fake_script() -- tct.LocalScript
 	script.Parent.Parent.Parent.Loading.Visible = false
 	script.Parent.Parent.Parent.KeySystem.Visible = true
 end
-coroutine.wrap(RZUN_fake_script)()
-local function VFLAIR_fake_script() -- LoadUI.LocalScript 
+coroutine.wrap(BMBUAOU_fake_script)()
+local function ETQCR_fake_script() -- LoadUI.LocalScript 
 	local script = Instance.new('LocalScript', LoadUI)
 
 	-- Variables.
@@ -3546,21 +3545,21 @@ local function VFLAIR_fake_script() -- LoadUI.LocalScript
 	game:GetService("StarterGui"):SetCoreGuiEnabled(Enum.CoreGuiType.All, true)
 	script.Parent:Destroy()
 end
-coroutine.wrap(VFLAIR_fake_script)()
-local function RGEGLDS_fake_script() -- MainClassicEdition.Share Destance 
+coroutine.wrap(ETQCR_fake_script)()
+local function PZGGH_fake_script() -- MainClassicEdition.Share Destance 
 	local script = Instance.new('LocalScript', MainClassicEdition)
 
 	local plr = game.Players.LocalPlayer
 	
-	if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" then
+	if plr.Name == "john_doe575757" or "ROBLOXRTYUIOPQw" or "Galaxy_waterblue" then
 		game.StarterGui:SetCore("SendNotification", {Title = "Allowed.", Text = "Allowed User:"..plr.Name})
 	else
 		game.StarterGui:SetCore("SendNotification", {Title = "Prevention Script Share System", Text = "Invaild UserId:"..plr.Name.." For InJect To Loading Gui"})
 		script.Parent.Loading.Visible = false
 	end
 end
-coroutine.wrap(RGEGLDS_fake_script)()
-local function UTRV_fake_script() -- MainClassicEdition.LocalScript 
+coroutine.wrap(PZGGH_fake_script)()
+local function ZWHS_fake_script() -- MainClassicEdition.LocalScript 
 	local script = Instance.new('LocalScript', MainClassicEdition)
 
 	local plr = game.Players.LocalPlayer
@@ -3569,4 +3568,4 @@ local function UTRV_fake_script() -- MainClassicEdition.LocalScript
 		game.StarterGui:SetCore("SendNotification", {Title = "Developer", Text = "Developer John"})
 	end
 end
-coroutine.wrap(UTRV_fake_script)()
+coroutine.wrap(ZWHS_fake_script)()
